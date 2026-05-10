@@ -135,4 +135,8 @@ sacco-loan-savings-dashboard/
 
 ---
 
+## Author
+
+**Faith Jeptoo**
+Data Analyst | Excel · Python · SQL · Data Visualisation
 [LinkedIn](https://linkedin.com/in/jeptoofaithkibowen) · [Portfolio](https://faithkibowen-data.com) · [GitHub](https://github.com/kibowenfaith)
