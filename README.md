@@ -1,4 +1,4 @@
-# Excel Loan & Savings Performance Dashboard — SACCO (Kenya)
+# Excel Loan & Savings Performance Dashboard - SACCO (Kenya)
 
 ---
 
@@ -10,7 +10,7 @@
 
 **Key Findings:**
 - Total loan book of **KES 648M** with an outstanding balance of **KES 257M**
-- PAR ratio of **22.6%** — significantly above the SASRA-recommended threshold of 5%, signalling systemic credit risk
+- PAR ratio of **22.6%** - significantly above the SASRA-recommended threshold of 5%, signalling systemic credit risk
 - Repayment rate of **90.6%** overall, masking branch-level divergence
 - Asset Finance carries the highest outstanding balances and default concentration
 - Nairobi branch accounts for ~45% of total disbursements but also drives the largest PAR exposure
@@ -23,7 +23,7 @@
 
 Jua Kali SACCO Ltd operates across Nairobi, Kisumu, Mombasa, and Nakuru. Like most SACCOs regulated under Kenya's SASRA framework, management must track:
 
-- Portfolio At Risk (PAR) — the primary regulatory metric
+- Portfolio At Risk (PAR) - the primary regulatory metric
 - Loan repayment performance across 7 distinct loan products
 - Savings mobilisation trends and member contribution behaviour
 - At-risk member accounts requiring follow-up
@@ -37,15 +37,15 @@ Without a centralised dashboard, the credit and finance teams were spending sign
 ## Methodology
 
 **Data Sources (synthetic, CSV):**
-- `members_raw.csv` — 1,500 members with branch, occupation, contribution tier, status
-- `loans_raw.csv` — 2,071 loan records across 7 products with disbursement, term, status, outstanding balance
-- `savings_transactions.csv` — deposit and withdrawal transactions (Jan 2023 – Dec 2024)
-- `repayment_schedule.csv` — installment-level repayment records with payment status and days late
+- `members_raw.csv` - 1,500 members with branch, occupation, contribution tier, status
+- `loans_raw.csv` - 2,071 loan records across 7 products with disbursement, term, status, outstanding balance
+- `savings_transactions.csv` - deposit and withdrawal transactions (Jan 2023 - Dec 2024)
+- `repayment_schedule.csv` - installment-level repayment records with payment status and days late
 
 **Process:**
-1. Data loaded and cleaned in Power Query — date parsing, null handling, column typing, custom columns
+1. Data loaded and cleaned in Power Query - date parsing, null handling, column typing, custom columns
 2. Relationships built in Power Pivot with member_id as the primary key linking all tables
-3. KPI measures written in DAX — PAR ratio, repayment rate, net savings, contribution tier
+3. KPI measures written in DAX - PAR ratio, repayment rate, net savings, contribution tier
 4. Dashboard built using Pivot Charts, slicers, and dynamic array formulas
 5. Conditional formatting applied for at-risk member highlighting
 
@@ -55,14 +55,14 @@ Without a centralised dashboard, the credit and finance teams were spending sign
 
 ## Skills & Tools Used
 
-- **Power Query** — ETL pipeline loading and cleaning 4 CSV sources
-- **Power Pivot** — relational data model with star schema (member_id as central key)
-- **DAX measures** — PAR ratio, repayment rate, net savings, active members
-- **Dynamic arrays** — FILTER, SORT, CHOOSE for the at-risk member register
-- **XLOOKUP** — cross-table member name lookups
-- **Conditional formatting** — colour-coded risk status on arrears register
-- **Pivot Charts with slicers** — branch and loan product filters connected across all visuals
-- **Data validation** — dropdown controls
+- **Power Query** - ETL pipeline loading and cleaning 4 CSV sources
+- **Power Pivot** - relational data model with star schema (member_id as central key)
+- **DAX measures** - PAR ratio, repayment rate, net savings, active members
+- **Dynamic arrays** - FILTER, SORT, CHOOSE for the at-risk member register
+- **XLOOKUP** - cross-table member name lookups
+- **Conditional formatting** - colour-coded risk status on arrears register
+- **Pivot Charts with slicers** - branch and loan product filters connected across all visuals
+- **Data validation** - dropdown controls
 
 ---
 
@@ -91,13 +91,13 @@ For a deeper breakdown of individual loan records, the underlying data tables ar
 
 **Recommendations:**
 
-1. **Urgent credit review — Nairobi branch:** Nairobi drives the largest loan book and PAR exposure. A targeted review of PAR 60+ accounts is recommended before further disbursements are approved.
+1. **Urgent credit review - Nairobi branch:** Nairobi drives the largest loan book and PAR exposure. A targeted review of PAR 60+ accounts is recommended before further disbursements are approved.
 
 2. **Tighten Asset Finance collateral policy:** Asset Finance loans carry the highest outstanding balances. Stricter collateral requirements would reduce recovery risk.
 
 3. **Expand Salary Advance carefully:** These short-term loans show the highest repayment compliance and could be extended to more members to improve portfolio quality.
 
-4. **Savings mobilisation gap:** Total savings cover approximately 23% of the outstanding loan portfolio — below SASRA's recommended ratio. A savings campaign targeting Kisumu and Nakuru branches is recommended.
+4. **Savings mobilisation gap:** Total savings cover approximately 23% of the outstanding loan portfolio - below SASRA's recommended ratio. A savings campaign targeting Kisumu and Nakuru branches is recommended.
 
 5. **Inactive member reactivation:** 18% of members are inactive. A targeted contribution reminder programme could recover significant annual deposits.
 
@@ -135,4 +135,4 @@ sacco-loan-savings-dashboard/
 
 ---
 
-*This is a simulated business case study. All data is synthetically generated and does not represent any real SACCO or individuals.*
+[LinkedIn](https://linkedin.com/in/jeptoofaithkibowen) · [Portfolio](https://faithkibowen-data.com) · [GitHub](https://github.com/kibowenfaith)
