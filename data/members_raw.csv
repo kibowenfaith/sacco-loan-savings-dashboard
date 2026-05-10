@@ -1,0 +1,1501 @@
+member_id,full_name,gender,branch,occupation,phone_number,join_date,monthly_contribution_kes,member_status,national_id
+MEM0001,Fredrick Gicheru,Female,Nakuru,Nurse,0711558648,2021-08-02,1500,Active,36192194
+MEM0002,Eric Korir,Male,Nairobi,Accountant,0712204415,2018-08-17,5000,Active,13769334
+MEM0003,Francis Okumu,Male,Mombasa,Accountant,0711628751,2018-02-21,2000,Active,27842986
+MEM0004,Victor Awuor,Female,Nairobi,Shopkeeper,0733762113,2022-02-27,2000,Active,15309113
+MEM0005,Winnie Mbugua,Female,Nakuru,Civil Servant,0720983981,2019-07-18,1000,Active,36796266
+MEM0006,Njoroge Chepkemoi,Male,Kisumu,Nurse,0700978012,2019-05-17,1000,Active,27230212
+MEM0007,Lilian Kamau,Male,Nairobi,Shopkeeper,0711438065,2019-04-03,500,Active,38397093
+MEM0008,Esther Wanjiku,Male,Nairobi,Small Business Owner,0712197784,2018-10-13,3000,Active,38571127
+MEM0009,George Mulwa,Male,Kisumu,Nurse,0733126885,2022-02-17,2000,Active,12943738
+MEM0010,Fredrick Odero,Male,Kisumu,Shopkeeper,0720112098,2018-07-29,2000,Active,29257735
+MEM0011,Lilian Kimani,Male,Nairobi,Shopkeeper,0711129169,2021-10-17,500,Inactive,25718466
+MEM0012,Lilian Awuor,Male,Nakuru,Small Business Owner,0733699569,2022-02-25,5000,Active,30469259
+MEM0013,Mark Ogol,Male,Nakuru,Police Officer,0720126518,2023-01-02,2500,Active,31816219
+MEM0014,Mutua Waithaka,Male,Kisumu,Engineer,0711575745,2021-01-21,1000,Active,16405120
+MEM0015,Mark Ogol,Female,Nairobi,Driver,0701295617,2018-06-28,1000,Active,35229824
+MEM0016,Erick Mwenda,Female,Mombasa,Small Business Owner,0712784219,2021-04-24,1000,Active,12452277
+MEM0017,Rose Ogola,Male,Kisumu,Nurse,0712411345,2020-05-14,1000,Active,35740117
+MEM0018,Thomas Waithaka,Male,Mombasa,Accountant,0712661425,2018-03-07,1500,Active,32949659
+MEM0019,Henry Odhiambo,Male,Kisumu,Nurse,0712861593,2018-03-03,1500,Active,24460172
+MEM0020,Rotich Kilonzo,Male,Nairobi,Civil Servant,0720907814,2018-07-11,1000,Active,37439330
+MEM0021,Stephen Matheka,Female,Mombasa,Driver,0700791281,2019-03-24,2000,Active,19290044
+MEM0022,Simon Aoko,Female,Nakuru,Driver,0722388321,2019-04-22,1000,Active,25626807
+MEM0023,Mwikali Owino,Male,Nairobi,Driver,0733250753,2020-10-31,1000,Active,25142732
+MEM0024,Peter Otieno,Female,Kisumu,Police Officer,0722769396,2021-05-17,1500,Active,39841828
+MEM0025,Ian Ndolo,Female,Nairobi,Driver,0733216320,2018-02-24,1500,Active,39546039
+MEM0026,Harrison Ochieng,Female,Nakuru,Shopkeeper,0729724840,2021-02-23,2500,Suspended,34794597
+MEM0027,Michael Ndolo,Male,Kisumu,Engineer,0733212278,2019-02-12,1000,Active,15107162
+MEM0028,Gregory Kimani,Female,Nakuru,Farmer,0711396183,2022-01-06,1500,Active,31825268
+MEM0029,George Mureithi,Female,Mombasa,Engineer,0700289401,2021-08-23,2000,Inactive,21087372
+MEM0030,Wanjiru Kimani,Female,Nairobi,Small Business Owner,0733181140,2021-12-07,500,Active,12450338
+MEM0031,Boniface Onyango,Female,Mombasa,Police Officer,0729985652,2021-01-21,2000,Active,16095961
+MEM0032,Caroline Munyao,Female,Nairobi,Accountant,0701979037,2020-05-09,1000,Active,31737898
+MEM0033,Calvin Wambua,Female,Nakuru,Farmer,0712509783,2019-03-28,500,Suspended,29301306
+MEM0034,Kamau Muturi,Female,Kisumu,Engineer,0733614889,2020-07-08,3000,Active,21402122
+MEM0035,Edwin Achieng,Male,Mombasa,Engineer,0722533843,2021-04-21,5000,Active,25235291
+MEM0036,Sharon Kamau,Female,Nairobi,Police Officer,0733610150,2019-07-24,2500,Active,27707142
+MEM0037,Eric Kyalo,Female,Nairobi,Small Business Owner,0733320511,2022-07-16,1000,Active,36209800
+MEM0038,Adhiambo Munyao,Male,Kisumu,Police Officer,0720493482,2022-11-16,500,Active,33239335
+MEM0039,Rotich Akello,Female,Nakuru,Farmer,0701764327,2018-01-14,2000,Active,34812113
+MEM0040,Florence Ogola,Male,Kisumu,Farmer,0729947825,2022-04-04,1500,Suspended,37521631
+MEM0041,Irene Kuria,Male,Nairobi,Teacher,0711288540,2022-07-09,1000,Active,24508841
+MEM0042,Hellen Otieno,Female,Kisumu,Shopkeeper,0700110632,2018-11-23,1500,Active,39843210
+MEM0043,Gregory Nderitu,Female,Nairobi,Engineer,0711791710,2021-11-30,500,Inactive,10720867
+MEM0044,Ian Maina,Male,Kisumu,Engineer,0722222900,2020-05-15,3000,Active,23470965
+MEM0045,Agnes Munyao,Female,Kisumu,Driver,0701463629,2019-11-28,1000,Active,29285001
+MEM0046,Laban Gitau,Male,Kisumu,Shopkeeper,0729743830,2019-07-24,2000,Active,19858754
+MEM0047,Rotich Achieng,Female,Nairobi,Police Officer,0722266082,2018-11-15,1000,Active,10213203
+MEM0048,Fredrick Kuria,Female,Nairobi,Driver,0700227500,2019-03-17,1500,Active,30927555
+MEM0049,Mutua Mwangi,Male,Mombasa,Farmer,0712735553,2023-05-15,1500,Active,37790540
+MEM0050,Emmanuel Mulwa,Female,Kisumu,Nurse,0722661988,2022-04-13,1000,Inactive,23084466
+MEM0051,Daniel Chepkemoi,Female,Nairobi,Accountant,0722643157,2019-11-21,5000,Active,10633227
+MEM0052,Collins Wambua,Male,Mombasa,Driver,0711326813,2018-07-29,2500,Active,10286484
+MEM0053,Tabitha Kabiru,Female,Nairobi,Police Officer,0701220364,2018-07-09,3000,Active,17557462
+MEM0054,Samuel Mureithi,Female,Mombasa,Teacher,0712130930,2020-02-18,3000,Inactive,20817422
+MEM0055,Tabitha Kabiru,Female,Mombasa,Farmer,0701245295,2018-07-18,2000,Inactive,24332763
+MEM0056,Mary Chebet,Male,Mombasa,Police Officer,0712187496,2020-01-06,3000,Inactive,15049771
+MEM0057,Wambua Gicheru,Male,Nairobi,Nurse,0711380589,2022-10-02,500,Suspended,18685663
+MEM0058,Chepkemoi Kirui,Male,Kisumu,Police Officer,0700604967,2019-12-06,1000,Active,38708320
+MEM0059,Fredrick Mwenda,Male,Mombasa,Teacher,0712196437,2021-05-21,500,Active,17478946
+MEM0060,Lucy Gicheru,Male,Nakuru,Shopkeeper,0701842479,2019-06-26,1000,Active,29608420
+MEM0061,Alice Gathogo,Male,Kisumu,Police Officer,0700589730,2022-07-11,1500,Active,32633749
+MEM0062,Duncan Waithaka,Female,Nairobi,Nurse,0729557244,2018-03-30,1000,Active,35762382
+MEM0063,Atieno Otieno,Female,Kisumu,Farmer,0720302432,2022-02-03,2500,Active,20959524
+MEM0064,Sharon Kimani,Female,Kisumu,Shopkeeper,0700281361,2020-07-29,1500,Active,27863180
+MEM0065,George Kirui,Female,Mombasa,Engineer,0712820431,2021-01-03,1000,Active,25359652
+MEM0066,Achieng Aoko,Male,Nakuru,Teacher,0700511907,2018-09-13,1500,Active,31931602
+MEM0067,Rose Gathogo,Male,Nairobi,Small Business Owner,0733711999,2023-06-16,1000,Active,32327181
+MEM0068,Fredrick Ojwang,Female,Kisumu,Driver,0700273699,2023-03-04,2500,Active,16722011
+MEM0069,Ndegwa Gitau,Female,Kisumu,Driver,0712857135,2020-02-15,500,Active,35834490
+MEM0070,Robert Anyango,Female,Mombasa,Driver,0729554527,2018-06-11,5000,Inactive,37565796
+MEM0071,David Maina,Female,Nairobi,Driver,0729544320,2021-02-04,2500,Active,29274954
+MEM0072,Michael Achieng,Female,Kisumu,Engineer,0700955524,2019-08-24,1000,Active,21899921
+MEM0073,Hellen Musyoka,Male,Nairobi,Nurse,0701753169,2022-08-26,500,Active,39972279
+MEM0074,Janet Munyao,Male,Kisumu,Farmer,0733736795,2021-07-11,2500,Active,39538360
+MEM0075,Joshua Munyao,Female,Nakuru,Driver,0720550167,2021-06-20,2000,Active,33988213
+MEM0076,Elijah Mwenda,Male,Nairobi,Driver,0712694691,2022-12-19,2000,Active,39099850
+MEM0077,Moses Okumu,Male,Mombasa,Nurse,0701492125,2022-10-31,2500,Active,29356078
+MEM0078,Eric Maina,Female,Kisumu,Teacher,0733571233,2020-01-11,500,Active,15120566
+MEM0079,George Odero,Female,Mombasa,Civil Servant,0711135399,2021-03-28,1500,Active,16336666
+MEM0080,Mary Mbugua,Female,Mombasa,Engineer,0700715377,2019-01-29,1000,Active,35937307
+MEM0081,Purity Oguta,Male,Mombasa,Shopkeeper,0720407729,2021-12-13,3000,Active,14975578
+MEM0082,Gerald Adhiambo,Female,Nairobi,Civil Servant,0701517654,2018-05-23,2000,Active,16917050
+MEM0083,Atieno Kariuki,Female,Nairobi,Shopkeeper,0722220219,2018-04-04,1000,Active,20350927
+MEM0084,Patrick Ogola,Female,Mombasa,Civil Servant,0711948340,2021-09-16,500,Active,16093039
+MEM0085,Christine Gitonga,Male,Mombasa,Nurse,0701550244,2019-04-12,1000,Inactive,13385524
+MEM0086,Brian Gitonga,Male,Nakuru,Engineer,0711475122,2022-05-03,1000,Active,10879947
+MEM0087,Simon Ouma,Male,Nairobi,Small Business Owner,0712176168,2019-08-16,2000,Active,27898673
+MEM0088,Philip Auma,Male,Nairobi,Engineer,0712788866,2018-06-13,2000,Inactive,30197132
+MEM0089,Wanjiru Gathogo,Female,Kisumu,Engineer,0701490032,2022-10-18,3000,Active,38343372
+MEM0090,Gerald Muthoni,Male,Nakuru,Engineer,0711917380,2019-04-22,1500,Active,11323809
+MEM0091,Boniface Awino,Male,Nakuru,Police Officer,0701228244,2022-11-10,1000,Active,36154445
+MEM0092,Gerald Waithaka,Female,Mombasa,Nurse,0722434064,2018-07-26,2000,Active,14272269
+MEM0093,Kevin Kamau,Male,Nairobi,Nurse,0722851622,2020-02-18,2500,Active,28121951
+MEM0094,Gerald Kamau,Male,Nairobi,Accountant,0701324156,2019-07-24,2000,Active,21694377
+MEM0095,Joseph Kamau,Male,Kisumu,Civil Servant,0729695034,2020-07-17,2500,Inactive,12324210
+MEM0096,Edward Ouma,Female,Nakuru,Accountant,0701343949,2021-07-25,1500,Inactive,20987769
+MEM0097,Atieno Ndegwa,Female,Nairobi,Police Officer,0733504321,2022-09-05,1500,Active,39211013
+MEM0098,Kamau Mwenda,Female,Mombasa,Police Officer,0700731035,2020-01-18,1500,Active,20580928
+MEM0099,Dennis Ngethe,Male,Nakuru,Civil Servant,0712652874,2018-11-30,500,Active,17721004
+MEM0100,Emmanuel Kabiru,Male,Nairobi,Shopkeeper,0712207919,2020-01-29,1000,Inactive,32084421
+MEM0101,Francis Otieno,Female,Mombasa,Small Business Owner,0700851058,2019-12-29,500,Active,17006408
+MEM0102,Grace Onyango,Male,Nairobi,Civil Servant,0733701828,2019-03-06,2000,Active,16767976
+MEM0103,Agnes Gakuya,Female,Nairobi,Civil Servant,0720815267,2021-10-04,1000,Active,20164627
+MEM0104,Allan Rotich,Male,Nairobi,Driver,0720433219,2019-07-01,1500,Active,15479066
+MEM0105,Harrison Rotich,Male,Kisumu,Shopkeeper,0701307775,2021-12-08,3000,Active,24236596
+MEM0106,Beatrice Chepkemoi,Male,Kisumu,Small Business Owner,0712152072,2023-04-03,1000,Active,19095866
+MEM0107,Moses Waithaka,Male,Mombasa,Engineer,0729622873,2021-10-31,1500,Active,17817472
+MEM0108,Michael Waithaka,Male,Nairobi,Civil Servant,0722387745,2021-08-20,2500,Active,17289224
+MEM0109,Philip Kuria,Female,Nairobi,Police Officer,0720225052,2018-05-27,1000,Inactive,35915609
+MEM0110,Wanjiru Wambua,Male,Nakuru,Engineer,0733574779,2021-06-01,500,Active,21923391
+MEM0111,Ndegwa Kyalo,Female,Kisumu,Teacher,0711730645,2021-07-24,1000,Active,10915916
+MEM0112,Tabitha Ogol,Male,Nairobi,Police Officer,0701719887,2018-12-17,1000,Suspended,14607431
+MEM0113,Gregory Okello,Female,Nakuru,Civil Servant,0720347906,2020-12-29,3000,Active,39448630
+MEM0114,Philip Mugo,Male,Nairobi,Driver,0722398882,2022-02-02,2500,Active,24751902
+MEM0115,Esther Mureithi,Male,Kisumu,Nurse,0722774933,2019-05-17,2000,Active,14130889
+MEM0116,Agnes Oguta,Male,Nairobi,Farmer,0722584202,2018-12-01,3000,Active,37989672
+MEM0117,Rose Akello,Male,Nairobi,Small Business Owner,0700237424,2020-08-04,2500,Active,22586735
+MEM0118,Agnes Maina,Female,Nairobi,Farmer,0720138805,2020-02-17,1000,Active,10853084
+MEM0119,Alice Gicheru,Female,Mombasa,Accountant,0722453778,2019-07-07,3000,Active,24896572
+MEM0120,Alex Mutua,Female,Nakuru,Teacher,0722172827,2023-03-11,1500,Active,39109569
+MEM0121,Duncan Njeri,Female,Mombasa,Civil Servant,0729199740,2021-08-03,2500,Active,34962563
+MEM0122,Edwin Auma,Male,Nairobi,Accountant,0720858386,2021-11-10,3000,Active,38661796
+MEM0123,Charles Mulwa,Male,Nairobi,Civil Servant,0700388016,2021-02-14,1000,Active,34827352
+MEM0124,Joyce Yego,Female,Nairobi,Nurse,0701890303,2019-03-26,1000,Active,16998929
+MEM0125,Mwikali Odero,Female,Kisumu,Engineer,0701519791,2021-11-03,1000,Inactive,22764661
+MEM0126,Mercy Ndegwa,Female,Kisumu,Small Business Owner,0733683480,2019-10-27,1500,Active,11651357
+MEM0127,Alex Maina,Female,Nairobi,Accountant,0701617806,2022-09-23,2500,Active,24992535
+MEM0128,Joyce Otieno,Male,Nairobi,Driver,0722512433,2022-04-23,3000,Active,24715190
+MEM0129,Esther Wambua,Female,Mombasa,Police Officer,0700830288,2022-05-09,500,Active,23394197
+MEM0130,Rotich Kabiru,Male,Nairobi,Driver,0729617300,2018-04-25,1500,Active,16665176
+MEM0131,Purity Wanjiku,Male,Nairobi,Police Officer,0733984028,2019-04-15,1500,Active,16899873
+MEM0132,Achieng Kirui,Male,Kisumu,Driver,0701747995,2022-08-11,1000,Suspended,35869921
+MEM0133,Kariuki Odhiambo,Male,Nairobi,Nurse,0733130710,2018-03-07,1000,Active,22767625
+MEM0134,Peter Okumu,Female,Kisumu,Accountant,0712150157,2022-07-07,1000,Suspended,29804402
+MEM0135,Simon Kirui,Male,Kisumu,Police Officer,0722245473,2019-10-09,3000,Active,37330065
+MEM0136,Mwangi Akello,Male,Nakuru,Accountant,0733438542,2020-04-01,1000,Active,14182537
+MEM0137,Isaac Odhiambo,Male,Nairobi,Farmer,0720337336,2019-07-03,1500,Active,13115589
+MEM0138,Adhiambo Mulwa,Male,Nakuru,Small Business Owner,0711192292,2018-05-16,2000,Active,15875273
+MEM0139,Wangari Odero,Male,Kisumu,Police Officer,0712859282,2019-03-09,1500,Active,27002142
+MEM0140,Janet Mutua,Male,Nairobi,Teacher,0701955792,2023-02-14,5000,Active,29404646
+MEM0141,Mwikali Ngethe,Male,Kisumu,Civil Servant,0722821673,2023-04-16,5000,Active,34310801
+MEM0142,James Okumu,Female,Mombasa,Civil Servant,0722372302,2021-03-07,1000,Active,27330736
+MEM0143,Gregory Ndolo,Male,Mombasa,Nurse,0722216185,2022-11-30,1500,Active,14083700
+MEM0144,Catherine Ogola,Female,Nairobi,Civil Servant,0722419071,2022-01-10,1000,Inactive,15465446
+MEM0145,Brian Nderitu,Female,Kisumu,Police Officer,0733376537,2019-10-07,1000,Active,35387496
+MEM0146,Janet Njoroge,Female,Kisumu,Driver,0701821338,2019-03-12,500,Active,17034283
+MEM0147,Calvin Onyango,Male,Nakuru,Engineer,0720383023,2021-09-04,2000,Active,14038555
+MEM0148,Victor Awino,Male,Nairobi,Civil Servant,0711244455,2020-10-19,1500,Active,26411755
+MEM0149,Daniel Kyalo,Female,Mombasa,Nurse,0729225725,2020-03-21,500,Suspended,34851821
+MEM0150,Irene Njeri,Female,Kisumu,Civil Servant,0711434844,2022-12-17,1000,Active,30295344
+MEM0151,Charles Kariuki,Male,Nairobi,Police Officer,0711889614,2023-02-16,3000,Active,22025584
+MEM0152,Rose Muthoni,Male,Kisumu,Police Officer,0720767841,2021-08-09,1000,Active,35155173
+MEM0153,Joshua Okumu,Female,Kisumu,Police Officer,0729800695,2020-07-28,1000,Inactive,20632714
+MEM0154,Joyce Ogola,Male,Mombasa,Shopkeeper,0733647108,2018-10-20,1500,Inactive,23929379
+MEM0155,Duncan Kimani,Female,Mombasa,Driver,0712705956,2019-06-27,5000,Active,16408263
+MEM0156,Calvin Ojwang,Male,Kisumu,Engineer,0729793390,2018-10-13,1000,Active,17057418
+MEM0157,Francis Korir,Male,Mombasa,Civil Servant,0729394169,2019-05-21,2000,Active,13046439
+MEM0158,Peter Muthoni,Male,Kisumu,Nurse,0701910175,2022-03-06,2500,Active,36836539
+MEM0159,Grace Gathogo,Female,Nakuru,Engineer,0729336800,2021-02-23,1000,Active,27009083
+MEM0160,Duncan Okumu,Female,Kisumu,Teacher,0733376626,2021-01-08,2000,Active,22074846
+MEM0161,Joseph Muturi,Male,Nairobi,Nurse,0700845937,2019-06-23,1500,Inactive,26038312
+MEM0162,Achieng Mwenda,Male,Nairobi,Teacher,0733470157,2022-03-10,2000,Active,18565927
+MEM0163,John Otieno,Female,Kisumu,Civil Servant,0712791515,2021-04-12,2000,Active,27070322
+MEM0164,Sharon Njoroge,Female,Mombasa,Accountant,0712828723,2020-05-27,1500,Inactive,13757839
+MEM0165,Sharon Kariuki,Female,Nairobi,Shopkeeper,0733178794,2023-01-13,500,Active,25332823
+MEM0166,Janet Rotich,Female,Nairobi,Driver,0729163194,2021-04-10,2500,Active,10541751
+MEM0167,Mercy Kyalo,Female,Mombasa,Engineer,0712113765,2020-03-28,1000,Inactive,10243457
+MEM0168,Gerald Kirui,Male,Nairobi,Police Officer,0712590891,2020-01-12,1000,Active,22751661
+MEM0169,Laban Mwenda,Male,Nairobi,Engineer,0720297045,2019-03-26,500,Active,36958022
+MEM0170,Esther Otieno,Female,Kisumu,Accountant,0729209612,2018-10-11,2000,Active,24093329
+MEM0171,George Mulwa,Female,Nakuru,Engineer,0701318797,2020-11-09,2000,Active,23432119
+MEM0172,Kariuki Wanjiku,Female,Kisumu,Teacher,0701897429,2020-10-07,500,Active,38772693
+MEM0173,Eric Kariuki,Female,Nakuru,Teacher,0700842929,2018-07-06,1500,Active,13357658
+MEM0174,Caroline Chepkemoi,Female,Mombasa,Farmer,0729787120,2022-03-28,1000,Active,21901122
+MEM0175,Mary Gicheru,Male,Nairobi,Small Business Owner,0711988990,2018-04-07,2000,Active,22092763
+MEM0176,Calvin Achieng,Male,Mombasa,Small Business Owner,0733236378,2022-10-30,1000,Active,20401260
+MEM0177,Jacqueline Ouma,Female,Kisumu,Driver,0712481308,2018-08-13,2000,Active,38069444
+MEM0178,Mark Gitau,Male,Mombasa,Civil Servant,0720574409,2018-11-10,1500,Active,12191292
+MEM0179,Chepkemoi Mutua,Female,Mombasa,Engineer,0712917911,2021-07-09,3000,Active,24567619
+MEM0180,Joyce Chebet,Female,Nairobi,Farmer,0720297083,2018-11-24,1000,Active,38447721
+MEM0181,Achieng Ngethe,Female,Nairobi,Farmer,0733391334,2022-06-11,1000,Active,31877551
+MEM0182,Joseph Njeri,Male,Nakuru,Driver,0720272172,2021-10-25,1000,Active,20089631
+MEM0183,Henry Awino,Female,Nairobi,Civil Servant,0700705282,2020-05-14,3000,Active,17696005
+MEM0184,Gerald Akoth,Female,Nakuru,Civil Servant,0733254444,2021-05-06,3000,Active,33528835
+MEM0185,Lydiah Rotich,Female,Mombasa,Farmer,0729212379,2018-05-11,1000,Active,12833721
+MEM0186,Kamau Korir,Male,Mombasa,Accountant,0733352248,2020-02-28,2000,Active,31824897
+MEM0187,Lydiah Gakuya,Female,Nakuru,Nurse,0722583232,2020-02-21,2500,Active,31595026
+MEM0188,Faith Gicheru,Female,Nakuru,Accountant,0711379714,2021-05-05,2000,Inactive,37184774
+MEM0189,Brian Mutua,Male,Mombasa,Teacher,0722599374,2020-08-16,1500,Active,23075699
+MEM0190,Catherine Mureithi,Male,Nairobi,Farmer,0729469053,2020-12-19,1000,Active,39391730
+MEM0191,George Awuor,Male,Mombasa,Driver,0700224074,2019-05-30,500,Active,25816266
+MEM0192,Hellen Ochieng,Female,Nairobi,Shopkeeper,0733471643,2023-06-12,3000,Active,10531838
+MEM0193,Erick Gitau,Male,Kisumu,Civil Servant,0720322367,2021-02-07,3000,Active,19217943
+MEM0194,Alex Murimi,Male,Kisumu,Accountant,0711516209,2022-10-29,2000,Active,34482290
+MEM0195,Laban Kariuki,Female,Mombasa,Farmer,0720632599,2023-04-15,1000,Active,31721784
+MEM0196,Lilian Ouma,Female,Mombasa,Small Business Owner,0701155739,2018-01-24,1000,Active,20847172
+MEM0197,Calvin Oguta,Male,Kisumu,Shopkeeper,0729385830,2021-10-25,2000,Active,11522347
+MEM0198,Paul Wanjiku,Male,Mombasa,Engineer,0701202564,2022-01-16,3000,Active,14722310
+MEM0199,Duncan Kimani,Male,Nakuru,Nurse,0722780129,2018-08-23,3000,Suspended,38434522
+MEM0200,James Odhiambo,Female,Nairobi,Accountant,0720867559,2021-10-28,2500,Active,18354990
+MEM0201,Charles Onyango,Female,Nairobi,Engineer,0720303352,2022-12-18,2000,Active,15951159
+MEM0202,Harrison Mbugua,Male,Nairobi,Shopkeeper,0700298652,2021-01-04,500,Active,28944136
+MEM0203,Florence Munyao,Female,Nakuru,Farmer,0720285225,2022-03-18,1000,Active,10311182
+MEM0204,Gregory Chepkemoi,Female,Kisumu,Small Business Owner,0700655286,2019-07-01,3000,Active,14293232
+MEM0205,Robert Yego,Male,Nakuru,Accountant,0729643810,2022-04-24,2000,Active,27402067
+MEM0206,Ndegwa Gitonga,Male,Nairobi,Driver,0720214488,2021-08-05,500,Active,15226381
+MEM0207,Boniface Mwenda,Female,Nairobi,Nurse,0722777741,2019-11-28,1000,Active,14705014
+MEM0208,Edward Gathogo,Female,Mombasa,Farmer,0712216478,2018-08-17,2000,Suspended,33322686
+MEM0209,Charles Otieno,Male,Nakuru,Police Officer,0712220783,2019-08-25,500,Inactive,25764298
+MEM0210,Allan Waithaka,Male,Nairobi,Civil Servant,0722137421,2020-06-09,1000,Active,35578135
+MEM0211,Njenga Kilonzo,Female,Nairobi,Civil Servant,0700350365,2018-11-20,1500,Inactive,11308314
+MEM0212,Edwin Onyango,Female,Nairobi,Small Business Owner,0733657980,2020-07-18,2000,Active,12052909
+MEM0213,Calvin Nderitu,Male,Nakuru,Small Business Owner,0733388840,2018-01-07,2000,Active,30005302
+MEM0214,Dennis Awuor,Male,Nairobi,Teacher,0712750348,2023-05-08,1000,Inactive,36923414
+MEM0215,James Gathogo,Female,Kisumu,Nurse,0720510945,2022-01-18,2000,Active,17040578
+MEM0216,Francis Rotich,Female,Nairobi,Small Business Owner,0720206225,2022-11-29,1000,Active,39069716
+MEM0217,Atieno Ouma,Female,Nakuru,Driver,0712869575,2022-01-13,1000,Active,34825220
+MEM0218,Mutua Owino,Female,Nairobi,Nurse,0700619225,2019-06-24,2000,Active,32177875
+MEM0219,Mwikali Matheka,Male,Kisumu,Farmer,0712279337,2023-06-14,2000,Active,19834286
+MEM0220,Thomas Musyoka,Male,Mombasa,Small Business Owner,0712464519,2020-10-22,2500,Active,22472317
+MEM0221,Calvin Wainaina,Female,Mombasa,Small Business Owner,0700840140,2022-04-10,2000,Active,30721708
+MEM0222,Tabitha Achieng,Male,Nakuru,Accountant,0700869531,2019-01-01,2000,Active,23920940
+MEM0223,Francis Chebet,Male,Nairobi,Shopkeeper,0722198820,2020-11-05,500,Active,37623709
+MEM0224,Winnie Munyao,Female,Mombasa,Police Officer,0711627685,2023-02-13,1500,Active,15284242
+MEM0225,Achieng Gicheru,Male,Nairobi,Teacher,0729874992,2018-08-06,1000,Active,24067331
+MEM0226,Paul Kariuki,Female,Nairobi,Shopkeeper,0700993978,2022-11-18,1000,Inactive,15785454
+MEM0227,David Owino,Male,Nairobi,Farmer,0712278501,2021-07-04,5000,Active,15859861
+MEM0228,Emmanuel Wainaina,Male,Kisumu,Shopkeeper,0701814544,2019-09-04,1500,Active,27401317
+MEM0229,Christine Kabiru,Male,Nairobi,Shopkeeper,0733274740,2022-09-20,3000,Active,15079486
+MEM0230,Brian Kyalo,Female,Nakuru,Accountant,0711448290,2021-08-01,2000,Active,34896270
+MEM0231,Faith Ndegwa,Male,Nairobi,Civil Servant,0729248723,2020-11-05,2500,Active,37159547
+MEM0232,David Gicheru,Female,Nairobi,Accountant,0722798384,2021-06-01,1500,Active,37189816
+MEM0233,Paul Mwangi,Male,Nairobi,Small Business Owner,0729548709,2019-02-12,2000,Active,32436768
+MEM0234,Duncan Chebet,Female,Nakuru,Farmer,0701121838,2018-11-10,1500,Active,16093977
+MEM0235,Esther Gathogo,Female,Mombasa,Accountant,0711376648,2020-02-05,1000,Active,22249649
+MEM0236,Alex Okello,Female,Nairobi,Farmer,0733279018,2022-04-11,2000,Active,39496943
+MEM0237,Florence Njeri,Male,Mombasa,Police Officer,0722722859,2018-11-27,1000,Active,13670572
+MEM0238,Gerald Okello,Male,Kisumu,Engineer,0701596846,2021-01-09,500,Active,36392466
+MEM0239,Ruth Chebet,Male,Nakuru,Driver,0722612027,2023-05-07,2000,Active,15448357
+MEM0240,Lydiah Mwenda,Male,Nairobi,Small Business Owner,0712595523,2022-05-14,1000,Inactive,11005966
+MEM0241,Patrick Gathogo,Male,Nairobi,Engineer,0733147371,2023-03-05,3000,Inactive,26695188
+MEM0242,Edward Njeri,Female,Nairobi,Engineer,0722694822,2020-12-22,5000,Active,16847684
+MEM0243,Moses Ngethe,Male,Nairobi,Police Officer,0700975937,2023-02-25,3000,Active,20269831
+MEM0244,Esther Munyao,Female,Mombasa,Accountant,0712650784,2018-01-02,1500,Active,23544390
+MEM0245,Laban Mulwa,Male,Kisumu,Teacher,0711891666,2021-05-11,500,Active,30982005
+MEM0246,David Odero,Male,Kisumu,Driver,0711912915,2019-10-26,3000,Active,22521981
+MEM0247,George Gakuya,Female,Kisumu,Small Business Owner,0733204849,2020-09-27,1500,Active,38233537
+MEM0248,Edwin Kyalo,Male,Kisumu,Shopkeeper,0700942942,2018-02-09,5000,Active,18898009
+MEM0249,Charles Okumu,Female,Nairobi,Nurse,0701574602,2018-08-18,5000,Active,30867956
+MEM0250,Lucy Korir,Female,Mombasa,Shopkeeper,0729870509,2023-03-18,3000,Active,20773413
+MEM0251,Mark Muthoni,Male,Nairobi,Nurse,0701672223,2020-01-14,1000,Active,10955569
+MEM0252,Calvin Ogola,Female,Nairobi,Teacher,0700795634,2022-12-05,1500,Active,36282143
+MEM0253,Simon Njeri,Male,Kisumu,Farmer,0729365852,2022-08-31,3000,Active,10866712
+MEM0254,Brian Chepkemoi,Female,Nairobi,Farmer,0701581035,2022-07-11,1000,Active,21126047
+MEM0255,Peter Njoroge,Female,Mombasa,Farmer,0722967958,2019-09-22,1000,Active,10956196
+MEM0256,Tabitha Korir,Female,Nairobi,Engineer,0701415761,2019-05-06,2000,Active,39823865
+MEM0257,Michael Musyoka,Female,Nairobi,Police Officer,0701642985,2018-04-29,3000,Active,25787438
+MEM0258,Mark Awuor,Male,Mombasa,Nurse,0729218238,2019-05-09,2000,Active,11148325
+MEM0259,Hellen Awino,Male,Nairobi,Teacher,0700819096,2022-12-04,2000,Active,34660857
+MEM0260,Thomas Kuria,Male,Nairobi,Driver,0722255084,2021-03-07,500,Inactive,39260410
+MEM0261,Wambua Mugo,Male,Nakuru,Small Business Owner,0720997859,2023-04-24,2000,Active,14843273
+MEM0262,Ndegwa Gitau,Female,Nairobi,Engineer,0712791396,2018-06-11,5000,Inactive,23678608
+MEM0263,Rotich Mwenda,Female,Mombasa,Small Business Owner,0711474545,2018-06-25,1000,Active,11560262
+MEM0264,Beatrice Aoko,Female,Nairobi,Small Business Owner,0729132405,2022-02-07,1500,Active,28101774
+MEM0265,Boniface Mulwa,Female,Nairobi,Accountant,0712705640,2020-09-22,3000,Active,22651254
+MEM0266,Mercy Munyao,Female,Nairobi,Nurse,0720476879,2022-07-30,2000,Active,35585331
+MEM0267,Wanjiru Mureithi,Male,Nairobi,Driver,0712880523,2018-05-22,2000,Active,30082578
+MEM0268,Mary Ogol,Male,Kisumu,Driver,0733303258,2023-06-26,2000,Active,34243839
+MEM0269,Caroline Murimi,Male,Nairobi,Engineer,0720769760,2022-04-07,1500,Active,27622942
+MEM0270,Lydiah Odero,Male,Nairobi,Nurse,0733387230,2020-12-26,1000,Active,15695537
+MEM0271,Laban Ngethe,Male,Mombasa,Police Officer,0729652501,2022-04-18,2500,Active,15307391
+MEM0272,Chepkemoi Kirui,Male,Nairobi,Teacher,0711378196,2018-09-15,2500,Active,13359310
+MEM0273,Rotich Odhiambo,Female,Nairobi,Teacher,0701447283,2018-09-20,3000,Active,10501251
+MEM0274,Florence Kariuki,Female,Nairobi,Farmer,0720717766,2021-09-13,3000,Active,21699303
+MEM0275,Faith Munyao,Female,Nairobi,Engineer,0720389666,2020-08-31,1500,Active,17472561
+MEM0276,Collins Otieno,Male,Mombasa,Civil Servant,0700299829,2023-04-24,1500,Active,13091165
+MEM0277,Henry Auma,Female,Kisumu,Accountant,0722707667,2021-01-30,2500,Inactive,24088931
+MEM0278,Wangari Ouma,Female,Mombasa,Engineer,0701974692,2018-12-05,2000,Active,12225522
+MEM0279,Purity Kilonzo,Male,Kisumu,Teacher,0733554515,2019-06-27,2000,Active,13771873
+MEM0280,Stephen Kimani,Female,Mombasa,Shopkeeper,0729694188,2020-12-16,2500,Active,25961486
+MEM0281,Chebet Kamau,Female,Kisumu,Small Business Owner,0701402418,2022-11-22,3000,Active,25583796
+MEM0282,Gregory Aoko,Male,Nairobi,Police Officer,0733108739,2021-05-27,1000,Active,23927667
+MEM0283,Mercy Chepkemoi,Female,Kisumu,Civil Servant,0729818826,2020-05-16,1500,Active,38727305
+MEM0284,Ann Kuria,Female,Nakuru,Police Officer,0711588969,2023-05-30,500,Active,28009576
+MEM0285,Stephen Onyango,Male,Nairobi,Civil Servant,0711648600,2019-03-10,2000,Active,24777903
+MEM0286,John Ndolo,Male,Mombasa,Shopkeeper,0700754096,2023-03-18,500,Active,14509896
+MEM0287,Njoroge Muturi,Male,Mombasa,Small Business Owner,0711418395,2021-01-09,1500,Active,38753318
+MEM0288,Paul Kyalo,Female,Kisumu,Police Officer,0729402262,2022-03-27,1500,Active,30242418
+MEM0289,Rotich Mwangi,Female,Kisumu,Small Business Owner,0733938635,2022-02-03,1000,Active,37159800
+MEM0290,Mark Musyoka,Female,Nakuru,Nurse,0700116349,2021-11-13,2000,Active,31369315
+MEM0291,Lilian Akoth,Male,Nairobi,Shopkeeper,0729142942,2019-02-16,500,Active,10024213
+MEM0292,Pauline Ochieng,Male,Kisumu,Civil Servant,0712396765,2021-12-31,500,Active,20449886
+MEM0293,Calvin Musyoka,Male,Nairobi,Nurse,0733155777,2019-10-01,2500,Inactive,25980079
+MEM0294,Harrison Odhiambo,Female,Mombasa,Nurse,0729420677,2020-03-28,1500,Active,25753368
+MEM0295,Calvin Wambua,Male,Kisumu,Police Officer,0722551226,2021-10-07,1000,Active,18618845
+MEM0296,Rose Akello,Male,Nakuru,Small Business Owner,0701792325,2021-08-23,1500,Active,14301631
+MEM0297,Atieno Otieno,Female,Nairobi,Police Officer,0722152326,2020-02-04,2500,Active,20833936
+MEM0298,Irene Ogol,Male,Nairobi,Farmer,0700244408,2020-06-16,1000,Active,32024265
+MEM0299,Simon Wainaina,Female,Kisumu,Teacher,0701397025,2023-01-17,2000,Active,28118926
+MEM0300,Kamau Kimani,Male,Nairobi,Engineer,0711190181,2020-11-25,500,Active,22266920
+MEM0301,Mutua Akello,Male,Nairobi,Civil Servant,0700249573,2020-07-13,500,Active,30589320
+MEM0302,Agnes Owino,Female,Kisumu,Small Business Owner,0712553038,2018-09-05,1500,Active,32428854
+MEM0303,David Chebet,Female,Kisumu,Police Officer,0733404928,2019-05-23,1500,Active,34035552
+MEM0304,Rose Owino,Female,Nairobi,Teacher,0712133697,2019-04-06,2000,Active,13234589
+MEM0305,Wanjiru Kariuki,Female,Nakuru,Police Officer,0729471858,2018-05-12,2000,Active,26031966
+MEM0306,Victor Owino,Female,Kisumu,Accountant,0712951138,2019-11-24,5000,Suspended,26535681
+MEM0307,Charles Mutua,Female,Kisumu,Shopkeeper,0720543089,2018-02-13,1500,Active,35122837
+MEM0308,Chebet Wainaina,Male,Kisumu,Engineer,0720202905,2021-04-19,1000,Active,37886731
+MEM0309,Lilian Akello,Male,Nairobi,Civil Servant,0700416693,2021-02-08,2500,Active,38587318
+MEM0310,Stephen Chebet,Male,Mombasa,Teacher,0700281720,2019-04-17,1000,Inactive,29167618
+MEM0311,Kariuki Ndolo,Female,Mombasa,Nurse,0720811902,2021-04-20,1500,Active,16586302
+MEM0312,Laban Wainaina,Female,Kisumu,Farmer,0701943453,2019-03-28,500,Active,14222254
+MEM0313,Thomas Okello,Female,Mombasa,Civil Servant,0711816514,2018-01-15,500,Active,17358860
+MEM0314,Ann Gitonga,Male,Mombasa,Nurse,0712362165,2018-05-26,5000,Active,27271608
+MEM0315,Collins Ogol,Male,Nairobi,Accountant,0711536535,2021-12-20,2500,Active,14355620
+MEM0316,Tabitha Achieng,Female,Kisumu,Civil Servant,0712415686,2021-07-16,2000,Active,37026332
+MEM0317,Joseph Ochieng,Male,Nairobi,Farmer,0700189755,2018-05-01,1500,Suspended,14784712
+MEM0318,Dennis Mwenda,Female,Nairobi,Farmer,0700694191,2019-04-14,1000,Active,17568263
+MEM0319,Duncan Matheka,Female,Kisumu,Civil Servant,0729672344,2018-05-19,1000,Active,32119414
+MEM0320,Atieno Rotich,Female,Nairobi,Shopkeeper,0711494228,2023-01-29,1000,Active,12757804
+MEM0321,Eric Kuria,Male,Nairobi,Civil Servant,0720200707,2018-03-06,1500,Active,34937158
+MEM0322,Purity Ochieng,Male,Nairobi,Driver,0711652150,2022-10-27,2000,Suspended,13180597
+MEM0323,Gerald Mutua,Male,Kisumu,Teacher,0729827851,2019-11-08,2000,Inactive,34067522
+MEM0324,Francis Kyalo,Female,Nairobi,Police Officer,0701628288,2018-05-26,1000,Active,23550572
+MEM0325,Beatrice Kimani,Male,Nairobi,Engineer,0701591130,2020-11-18,5000,Active,19472408
+MEM0326,Isaac Gicheru,Male,Nakuru,Farmer,0701548443,2019-05-03,2000,Active,39760027
+MEM0327,Emmanuel Wambua,Female,Nairobi,Police Officer,0729540932,2019-07-25,2000,Active,30636464
+MEM0328,Joyce Gitau,Female,Mombasa,Civil Servant,0720583691,2021-10-02,2000,Active,13530872
+MEM0329,Tabitha Chebet,Male,Nairobi,Engineer,0722686058,2020-09-21,1500,Active,18381185
+MEM0330,Mwangi Yego,Male,Nairobi,Police Officer,0722904016,2019-03-15,1000,Active,17590797
+MEM0331,Achieng Kirui,Female,Mombasa,Accountant,0720192724,2021-01-09,1500,Active,18411113
+MEM0332,Robert Wanjiku,Male,Mombasa,Teacher,0711745092,2018-09-28,2500,Active,16195045
+MEM0333,Irene Awuor,Female,Kisumu,Civil Servant,0700924843,2022-01-21,500,Active,34495751
+MEM0334,Kamau Chepkemoi,Female,Kisumu,Farmer,0712708512,2023-03-31,1000,Active,32124764
+MEM0335,Eric Anyango,Female,Kisumu,Driver,0701233457,2022-12-13,500,Active,20103512
+MEM0336,Florence Ojwang,Male,Nairobi,Nurse,0700156136,2021-03-15,500,Active,21026850
+MEM0337,Felix Wanjiku,Male,Nairobi,Shopkeeper,0720232053,2021-03-26,3000,Active,33839097
+MEM0338,Irene Muthoni,Male,Nairobi,Nurse,0720802629,2020-08-26,2000,Active,25507152
+MEM0339,Joseph Wanjiku,Female,Kisumu,Civil Servant,0722585289,2019-05-13,1500,Suspended,32426318
+MEM0340,Ruth Akello,Male,Mombasa,Small Business Owner,0729979962,2022-05-26,500,Active,29823443
+MEM0341,Edward Awino,Male,Mombasa,Teacher,0722188771,2020-08-26,1500,Active,27445517
+MEM0342,Kariuki Okello,Female,Mombasa,Driver,0722383298,2022-07-12,1500,Active,27344432
+MEM0343,Duncan Ojwang,Female,Nakuru,Police Officer,0733449682,2020-04-13,1000,Active,29366514
+MEM0344,Mark Nderitu,Male,Kisumu,Police Officer,0733961866,2019-01-25,1500,Active,39648120
+MEM0345,Ian Chepkemoi,Female,Nairobi,Farmer,0700692910,2018-07-13,1500,Active,18949835
+MEM0346,Jacqueline Gitau,Female,Kisumu,Police Officer,0729824139,2018-07-18,2000,Active,35497798
+MEM0347,Alice Mwenda,Female,Nairobi,Accountant,0701163821,2021-09-11,2000,Active,14419356
+MEM0348,Wangari Ochieng,Female,Kisumu,Police Officer,0733876442,2020-06-01,500,Active,21003975
+MEM0349,Emmanuel Achieng,Female,Nairobi,Nurse,0722835652,2019-12-27,1500,Inactive,24160673
+MEM0350,George Ogola,Female,Nairobi,Driver,0712641342,2020-05-17,2000,Inactive,22575217
+MEM0351,Emmanuel Kyalo,Male,Mombasa,Driver,0711689351,2020-04-21,1500,Active,32186251
+MEM0352,Hellen Mugo,Female,Nairobi,Farmer,0729243028,2020-08-14,3000,Suspended,14872808
+MEM0353,Njenga Mbugua,Female,Mombasa,Small Business Owner,0712808502,2022-11-05,2000,Active,29440382
+MEM0354,Pauline Gicheru,Male,Kisumu,Teacher,0711415508,2022-02-02,1000,Active,34709830
+MEM0355,Harrison Kirui,Female,Mombasa,Accountant,0700854075,2018-04-21,500,Active,38546380
+MEM0356,Paul Gathogo,Female,Mombasa,Shopkeeper,0722944750,2021-10-11,2000,Inactive,11148410
+MEM0357,Michael Kariuki,Female,Nakuru,Engineer,0729753959,2021-08-31,500,Active,35096565
+MEM0358,Kevin Chepkemoi,Female,Mombasa,Civil Servant,0712220280,2021-08-16,2000,Active,36835874
+MEM0359,Alex Maina,Male,Kisumu,Engineer,0733100037,2018-07-21,3000,Active,22919463
+MEM0360,Lucy Waithaka,Male,Kisumu,Driver,0711733120,2018-05-05,2000,Active,31202382
+MEM0361,Robert Otieno,Male,Nairobi,Driver,0733645073,2020-04-04,1500,Active,11611231
+MEM0362,Njoroge Adhiambo,Male,Nakuru,Shopkeeper,0733359214,2022-01-31,2000,Active,36648757
+MEM0363,Dennis Yego,Female,Mombasa,Shopkeeper,0712208639,2019-11-26,1500,Suspended,16640292
+MEM0364,Lucy Mwenda,Female,Nairobi,Shopkeeper,0729125854,2022-06-28,1500,Active,16112693
+MEM0365,Mwikali Mugo,Female,Nairobi,Civil Servant,0729509693,2022-10-31,3000,Suspended,10480557
+MEM0366,Elijah Nderitu,Male,Mombasa,Accountant,0722227728,2018-08-12,1500,Inactive,14796755
+MEM0367,Catherine Mwangi,Male,Nairobi,Driver,0700524209,2019-05-25,5000,Active,31294671
+MEM0368,Janet Kilonzo,Female,Nairobi,Nurse,0729292984,2019-01-28,3000,Active,11144677
+MEM0369,George Kyalo,Female,Nairobi,Police Officer,0712982608,2019-01-25,1000,Active,38030670
+MEM0370,Kevin Kirui,Female,Mombasa,Farmer,0700961600,2021-01-03,500,Suspended,36668130
+MEM0371,James Matheka,Male,Kisumu,Shopkeeper,0729790130,2020-07-07,1000,Active,17980228
+MEM0372,Brian Kuria,Male,Nairobi,Farmer,0733553355,2018-10-15,500,Active,15431966
+MEM0373,Eric Kuria,Female,Nairobi,Teacher,0711767101,2020-05-14,500,Active,23313177
+MEM0374,Rotich Yego,Female,Kisumu,Teacher,0722293785,2019-01-11,2000,Suspended,20822390
+MEM0375,Ian Ojwang,Female,Nairobi,Small Business Owner,0711958311,2019-07-25,500,Active,10393006
+MEM0376,Sharon Chebet,Male,Mombasa,Teacher,0712279071,2020-08-05,1000,Active,29196045
+MEM0377,Wangari Kariuki,Male,Nairobi,Teacher,0712599288,2019-05-27,2500,Active,26132178
+MEM0378,Lilian Chebet,Female,Nairobi,Farmer,0729404124,2022-11-26,500,Active,26235139
+MEM0379,Jacqueline Mwangi,Female,Nairobi,Driver,0700799961,2023-03-06,2500,Active,38778980
+MEM0380,Janet Ngethe,Male,Nairobi,Police Officer,0733717363,2018-06-04,1000,Active,21539428
+MEM0381,Purity Ogola,Female,Mombasa,Driver,0729485183,2020-06-26,1000,Active,16299786
+MEM0382,Beatrice Okello,Male,Mombasa,Engineer,0700510191,2022-07-13,2000,Suspended,31096104
+MEM0383,Agnes Muthoni,Male,Kisumu,Farmer,0720831541,2022-10-31,2000,Active,39176445
+MEM0384,Laban Ngethe,Female,Nairobi,Teacher,0733586501,2022-10-20,3000,Active,37413618
+MEM0385,Tabitha Njeri,Male,Nairobi,Driver,0720953009,2021-02-01,2000,Active,29367667
+MEM0386,John Kimani,Male,Nairobi,Police Officer,0720255363,2018-07-20,2500,Suspended,23611585
+MEM0387,Elijah Mwenda,Female,Kisumu,Small Business Owner,0722397189,2018-04-14,1000,Active,25170096
+MEM0388,Gerald Onyango,Female,Mombasa,Nurse,0729225961,2021-08-28,1000,Active,17208706
+MEM0389,Adhiambo Auma,Male,Nairobi,Driver,0720111554,2021-01-12,2500,Inactive,25206653
+MEM0390,Francis Mulwa,Male,Kisumu,Small Business Owner,0700135739,2022-09-09,2500,Active,30847790
+MEM0391,Kevin Njoroge,Female,Kisumu,Accountant,0729144702,2018-01-31,5000,Active,18818260
+MEM0392,Njoroge Owino,Male,Nairobi,Driver,0701246070,2023-06-08,1500,Active,28316674
+MEM0393,Isaac Yego,Female,Nairobi,Nurse,0729858188,2018-07-11,1500,Inactive,24759353
+MEM0394,Njenga Ogol,Female,Mombasa,Police Officer,0729390354,2023-03-13,2500,Active,13953353
+MEM0395,Lucy Okumu,Female,Nairobi,Accountant,0722266004,2022-03-24,1000,Inactive,34996724
+MEM0396,Lucy Kamau,Female,Nairobi,Police Officer,0701624957,2022-10-05,3000,Active,19371927
+MEM0397,Emmanuel Anyango,Male,Nairobi,Teacher,0712465779,2019-04-30,3000,Active,31993604
+MEM0398,Dennis Muturi,Female,Mombasa,Police Officer,0720637966,2018-12-07,1500,Inactive,35786951
+MEM0399,Purity Onyango,Male,Kisumu,Farmer,0733282973,2020-04-12,2500,Active,27263450
+MEM0400,Mercy Ojwang,Female,Kisumu,Accountant,0711468959,2020-09-21,2500,Suspended,21319599
+MEM0401,Florence Ojwang,Female,Nairobi,Teacher,0701581801,2020-09-12,1000,Active,21316386
+MEM0402,Emmanuel Mugo,Male,Nairobi,Teacher,0711391860,2019-03-14,3000,Inactive,39948231
+MEM0403,Henry Awuor,Female,Kisumu,Engineer,0700513064,2022-11-06,1500,Active,16251841
+MEM0404,Lilian Onyango,Male,Nairobi,Engineer,0733980096,2020-04-01,2500,Active,18565923
+MEM0405,George Wainaina,Female,Nairobi,Police Officer,0729494812,2023-01-23,1000,Active,21441490
+MEM0406,Joshua Munyao,Male,Nairobi,Nurse,0729735271,2018-05-01,3000,Inactive,37078040
+MEM0407,Atieno Akello,Female,Nairobi,Farmer,0711704020,2018-12-04,1500,Active,39258495
+MEM0408,Joseph Oguta,Male,Nairobi,Farmer,0700235708,2020-02-16,500,Active,26352925
+MEM0409,Beatrice Odhiambo,Female,Nairobi,Civil Servant,0701717456,2018-01-05,3000,Active,35904282
+MEM0410,Edward Gitonga,Male,Nairobi,Farmer,0701712885,2020-03-10,500,Active,28418054
+MEM0411,Florence Gicheru,Female,Mombasa,Farmer,0720170852,2019-06-28,1000,Active,25311424
+MEM0412,Chebet Musyoka,Female,Nairobi,Civil Servant,0722130955,2023-03-13,5000,Active,32254912
+MEM0413,Harrison Korir,Female,Nairobi,Shopkeeper,0711342959,2022-05-25,5000,Inactive,13238117
+MEM0414,Eunice Waithaka,Male,Mombasa,Driver,0733797576,2022-05-27,2000,Active,32414786
+MEM0415,Moses Kuria,Female,Kisumu,Farmer,0733623694,2020-07-20,2000,Active,38729787
+MEM0416,Erick Mulwa,Male,Mombasa,Farmer,0729439381,2019-08-08,1500,Active,21488199
+MEM0417,Faith Nderitu,Male,Mombasa,Civil Servant,0712909231,2020-05-16,1000,Active,35611068
+MEM0418,Laban Nderitu,Male,Nairobi,Civil Servant,0712210553,2021-11-27,1000,Active,27417197
+MEM0419,Achieng Musyoka,Female,Mombasa,Farmer,0711863534,2023-05-15,2000,Active,18820230
+MEM0420,Thomas Mwangi,Female,Nairobi,Small Business Owner,0720892528,2022-02-05,2500,Active,12117880
+MEM0421,James Kirui,Female,Nairobi,Accountant,0720167496,2022-05-24,2500,Active,36238031
+MEM0422,Alice Nderitu,Female,Nakuru,Farmer,0722741627,2021-02-12,2500,Active,22261535
+MEM0423,Ndegwa Munyao,Female,Mombasa,Teacher,0700220034,2021-09-17,500,Suspended,24311452
+MEM0424,Catherine Mbugua,Male,Kisumu,Accountant,0722987936,2022-01-11,1500,Inactive,31551766
+MEM0425,Florence Gicheru,Female,Kisumu,Small Business Owner,0733562976,2020-09-23,500,Inactive,10852751
+MEM0426,Duncan Murimi,Female,Mombasa,Teacher,0701735996,2018-11-14,1500,Active,28230753
+MEM0427,Grace Rotich,Female,Nairobi,Farmer,0722282522,2019-01-24,1500,Suspended,14235514
+MEM0428,Tabitha Kilonzo,Male,Nairobi,Driver,0701212890,2019-08-31,3000,Inactive,13173696
+MEM0429,Joseph Owino,Female,Nairobi,Teacher,0729495972,2019-03-22,1500,Active,17621052
+MEM0430,Laban Ndolo,Male,Nairobi,Engineer,0711768357,2023-06-07,1000,Active,25348919
+MEM0431,Ian Odero,Female,Mombasa,Nurse,0712305225,2018-04-30,1000,Active,37852794
+MEM0432,Alice Munyao,Male,Kisumu,Engineer,0700614958,2021-04-01,2500,Active,13729137
+MEM0433,Gregory Rotich,Female,Mombasa,Driver,0729811824,2022-02-15,2000,Active,14035851
+MEM0434,Lucy Wanjiku,Male,Nakuru,Nurse,0700336450,2021-01-15,1000,Active,28470532
+MEM0435,Alice Mugo,Male,Nairobi,Small Business Owner,0712878204,2018-05-05,500,Active,33914087
+MEM0436,Laban Njoroge,Female,Mombasa,Civil Servant,0711555148,2022-03-12,2000,Active,19922496
+MEM0437,George Adhiambo,Female,Nairobi,Driver,0712190196,2019-10-05,500,Active,14237899
+MEM0438,Wanjiru Korir,Female,Kisumu,Farmer,0722759675,2018-04-28,2500,Active,39303311
+MEM0439,Ann Mugo,Female,Kisumu,Small Business Owner,0733313426,2018-04-13,2000,Active,21664334
+MEM0440,David Gitonga,Female,Nairobi,Driver,0722949355,2021-04-11,500,Suspended,20302230
+MEM0441,Victor Awuor,Male,Nairobi,Teacher,0711105490,2020-09-03,500,Active,25185555
+MEM0442,Ndegwa Ogola,Male,Nairobi,Accountant,0701912002,2020-10-26,5000,Active,24635238
+MEM0443,David Kuria,Male,Nairobi,Small Business Owner,0720695900,2023-02-26,1500,Active,28565618
+MEM0444,Irene Wambua,Female,Nairobi,Engineer,0733457261,2022-10-13,1500,Active,12783918
+MEM0445,Adhiambo Muthoni,Male,Kisumu,Nurse,0711815507,2020-12-23,2500,Active,39090601
+MEM0446,Calvin Waithaka,Male,Nairobi,Civil Servant,0729299372,2018-11-19,3000,Active,26935717
+MEM0447,Patrick Gitau,Male,Kisumu,Shopkeeper,0712698076,2018-04-27,5000,Active,16127454
+MEM0448,Mwikali Okello,Female,Nakuru,Accountant,0729625179,2023-05-22,2500,Active,23339836
+MEM0449,Kevin Nderitu,Female,Nairobi,Driver,0701473801,2020-11-06,1500,Active,37515527
+MEM0450,Simon Owino,Male,Mombasa,Shopkeeper,0711940534,2018-06-14,500,Active,39716619
+MEM0451,Patrick Ogola,Female,Mombasa,Farmer,0733560197,2022-10-10,2500,Active,27143114
+MEM0452,George Kamau,Female,Mombasa,Engineer,0720755853,2019-01-16,2000,Active,16539020
+MEM0453,Lilian Mbugua,Female,Nairobi,Nurse,0720174310,2018-05-21,1500,Active,14754945
+MEM0454,Lucy Mulwa,Female,Nairobi,Engineer,0733233370,2021-05-03,3000,Active,38186152
+MEM0455,Edward Awino,Male,Nairobi,Farmer,0700205814,2018-05-20,1000,Active,32836286
+MEM0456,Paul Ndegwa,Female,Kisumu,Small Business Owner,0733622937,2021-10-14,1500,Active,17444288
+MEM0457,Mercy Kirui,Male,Mombasa,Teacher,0712153979,2022-11-01,500,Active,36035265
+MEM0458,Collins Ngethe,Female,Kisumu,Nurse,0701123637,2019-04-27,1500,Active,10561004
+MEM0459,Francis Chebet,Female,Nairobi,Driver,0712961224,2020-04-06,500,Inactive,16666497
+MEM0460,Florence Kyalo,Male,Mombasa,Shopkeeper,0700968376,2018-09-03,1000,Active,34609233
+MEM0461,Esther Chebet,Female,Kisumu,Civil Servant,0700509391,2023-04-13,1000,Active,34984489
+MEM0462,Samuel Wanjiku,Male,Mombasa,Accountant,0701171253,2022-12-29,2000,Active,21876138
+MEM0463,Wangari Anyango,Male,Mombasa,Shopkeeper,0711402062,2021-03-12,2000,Active,27635360
+MEM0464,Jacqueline Owino,Female,Nairobi,Shopkeeper,0733660383,2019-05-20,2000,Active,30164076
+MEM0465,Lilian Ojwang,Female,Nakuru,Teacher,0712994640,2021-03-31,5000,Active,36170366
+MEM0466,Allan Awino,Female,Kisumu,Engineer,0700518612,2021-05-02,1500,Active,15092596
+MEM0467,Charles Nderitu,Female,Kisumu,Small Business Owner,0722672461,2018-03-23,1000,Active,28887219
+MEM0468,Grace Rotich,Female,Kisumu,Accountant,0733711081,2021-06-22,3000,Active,38854335
+MEM0469,Thomas Chepkemoi,Male,Mombasa,Nurse,0729375831,2018-06-17,1000,Active,27802691
+MEM0470,Gregory Yego,Male,Kisumu,Driver,0722133842,2020-05-08,5000,Active,27617594
+MEM0471,Gregory Mwenda,Male,Nairobi,Teacher,0701541875,2021-09-08,500,Suspended,11576897
+MEM0472,Jacqueline Chepkemoi,Male,Nairobi,Small Business Owner,0700310251,2021-04-10,5000,Active,36852269
+MEM0473,Robert Chepkemoi,Female,Nairobi,Driver,0701901883,2021-03-03,500,Active,27889755
+MEM0474,Daniel Ogol,Female,Nairobi,Nurse,0722246054,2020-12-06,3000,Active,22168721
+MEM0475,Gregory Chebet,Female,Nairobi,Police Officer,0712673662,2019-10-10,1500,Active,28101180
+MEM0476,Esther Wanjiku,Male,Nairobi,Engineer,0701894133,2023-03-30,5000,Suspended,17731731
+MEM0477,Wangari Odero,Female,Kisumu,Driver,0722347062,2019-06-19,500,Inactive,33276533
+MEM0478,Faith Njeri,Female,Nairobi,Engineer,0729176453,2019-02-23,2000,Active,27813043
+MEM0479,Joyce Otieno,Female,Kisumu,Farmer,0722462645,2021-10-03,5000,Active,15595317
+MEM0480,Fredrick Njoroge,Female,Nairobi,Civil Servant,0733536459,2022-01-06,1500,Active,22565199
+MEM0481,Eric Rotich,Female,Mombasa,Shopkeeper,0733678211,2019-10-06,2000,Active,15326759
+MEM0482,Philip Kariuki,Female,Nairobi,Farmer,0729235753,2019-05-04,2000,Active,13360076
+MEM0483,Joseph Nderitu,Male,Mombasa,Small Business Owner,0700858466,2019-06-28,1500,Active,32830331
+MEM0484,Njoroge Kamau,Female,Mombasa,Teacher,0722209116,2020-03-21,2000,Active,15557805
+MEM0485,Patrick Rotich,Male,Kisumu,Engineer,0722620719,2018-09-26,2000,Active,31303955
+MEM0486,Wambua Wainaina,Male,Kisumu,Small Business Owner,0712781927,2021-10-07,3000,Active,31283999
+MEM0487,Chepkemoi Njeri,Male,Kisumu,Nurse,0701552476,2021-08-14,500,Active,38821271
+MEM0488,Pauline Anyango,Male,Kisumu,Accountant,0729418157,2019-09-07,1000,Active,30742821
+MEM0489,Grace Onyango,Female,Mombasa,Accountant,0712122484,2020-07-25,5000,Active,17591941
+MEM0490,George Mureithi,Male,Nakuru,Shopkeeper,0722127633,2019-10-10,3000,Active,38294398
+MEM0491,Laban Anyango,Male,Nairobi,Teacher,0712660134,2023-03-18,1500,Active,35202874
+MEM0492,Ann Mugo,Female,Mombasa,Police Officer,0720815067,2022-03-20,2000,Active,34027857
+MEM0493,Collins Gathogo,Female,Kisumu,Accountant,0722679334,2023-04-01,1000,Active,15101987
+MEM0494,Collins Mutua,Male,Nairobi,Farmer,0729154673,2018-05-29,1000,Inactive,28146960
+MEM0495,Patrick Kamau,Female,Kisumu,Civil Servant,0720902875,2018-01-20,1500,Active,30456981
+MEM0496,Atieno Gakuya,Female,Nairobi,Driver,0720829222,2020-07-27,1500,Active,24227607
+MEM0497,Njenga Muthoni,Male,Nairobi,Small Business Owner,0711550592,2021-06-26,2000,Active,38799607
+MEM0498,Emmanuel Gitau,Male,Nairobi,Engineer,0720676239,2021-02-27,500,Inactive,16784576
+MEM0499,Elijah Odhiambo,Female,Nakuru,Teacher,0711221197,2018-07-24,5000,Suspended,19342271
+MEM0500,Patrick Gakuya,Male,Nairobi,Shopkeeper,0729223724,2018-05-31,5000,Active,11641220
+MEM0501,Collins Munyao,Female,Mombasa,Farmer,0701468877,2021-01-06,2000,Active,23451060
+MEM0502,Victor Waithaka,Male,Kisumu,Teacher,0712459793,2019-03-13,1500,Active,19948769
+MEM0503,Alex Ndegwa,Male,Nairobi,Shopkeeper,0720160736,2020-11-02,1000,Active,23078591
+MEM0504,Pauline Ogola,Female,Nairobi,Accountant,0712343304,2019-06-28,2500,Active,27506976
+MEM0505,Moses Ogol,Female,Nairobi,Driver,0733717210,2018-09-29,2000,Active,24135278
+MEM0506,Mercy Mwenda,Male,Nairobi,Farmer,0722338158,2023-03-27,1000,Active,39989088
+MEM0507,Edward Chebet,Female,Kisumu,Nurse,0720883785,2019-12-16,3000,Active,25990224
+MEM0508,Kevin Rotich,Male,Nairobi,Shopkeeper,0722940713,2022-12-10,2500,Active,25703613
+MEM0509,Wanjiru Chebet,Female,Nairobi,Teacher,0722854793,2018-05-21,3000,Inactive,20801885
+MEM0510,Boniface Korir,Female,Nairobi,Teacher,0712952095,2022-12-06,2000,Active,14567425
+MEM0511,Achieng Owino,Female,Nairobi,Civil Servant,0722180333,2019-05-16,2000,Active,34211121
+MEM0512,Harrison Mbugua,Male,Nairobi,Accountant,0722232871,2020-01-27,1500,Active,20066101
+MEM0513,Chebet Kariuki,Male,Kisumu,Teacher,0729289365,2019-08-07,3000,Active,10011865
+MEM0514,Daniel Okello,Female,Mombasa,Driver,0700145843,2018-11-20,3000,Active,12512236
+MEM0515,Achieng Chebet,Female,Kisumu,Engineer,0701466652,2020-06-16,500,Active,18433209
+MEM0516,Rose Mbugua,Female,Nairobi,Shopkeeper,0712406616,2022-09-04,500,Active,33767981
+MEM0517,Mark Muturi,Male,Nairobi,Small Business Owner,0711735566,2021-01-17,1500,Active,28648123
+MEM0518,Kamau Ojwang,Female,Mombasa,Small Business Owner,0720601954,2021-12-11,2500,Active,32418392
+MEM0519,Thomas Aoko,Female,Nairobi,Nurse,0733788484,2019-09-12,5000,Inactive,20455740
+MEM0520,Irene Ogol,Female,Mombasa,Accountant,0733180088,2021-06-06,1000,Active,17004648
+MEM0521,Francis Mutua,Male,Kisumu,Farmer,0700670054,2022-07-11,2000,Active,34610850
+MEM0522,Eric Ochieng,Female,Nakuru,Farmer,0712618970,2021-09-01,1500,Active,30572801
+MEM0523,Charles Kamau,Male,Nakuru,Nurse,0701330987,2020-12-19,5000,Active,29930826
+MEM0524,Gerald Mulwa,Female,Nairobi,Small Business Owner,0729847775,2018-01-17,2500,Active,12241932
+MEM0525,Gerald Ndegwa,Female,Kisumu,Teacher,0700484757,2021-09-29,2500,Active,11987168
+MEM0526,Isaac Ojwang,Male,Nairobi,Small Business Owner,0700785395,2022-08-01,1500,Active,35339285
+MEM0527,Boniface Kimani,Male,Nairobi,Farmer,0712652436,2021-02-09,1500,Active,23769917
+MEM0528,Catherine Yego,Male,Nakuru,Driver,0700434347,2019-09-06,1000,Active,14707796
+MEM0529,Isaac Akoth,Male,Mombasa,Civil Servant,0733156620,2023-03-24,500,Inactive,14824844
+MEM0530,Gregory Ndegwa,Female,Nairobi,Civil Servant,0701530790,2021-09-20,3000,Active,26137404
+MEM0531,Hellen Mutua,Female,Kisumu,Engineer,0729393374,2018-08-01,2500,Active,37596549
+MEM0532,Victor Njeri,Male,Nakuru,Engineer,0733313442,2023-04-07,5000,Suspended,15377196
+MEM0533,Sharon Njeri,Female,Nairobi,Driver,0711982298,2022-12-04,5000,Active,35655481
+MEM0534,Allan Akoth,Male,Nairobi,Shopkeeper,0712419751,2018-10-03,2000,Active,37078033
+MEM0535,Catherine Mwenda,Male,Mombasa,Small Business Owner,0712228710,2019-06-26,2500,Active,18135710
+MEM0536,Henry Kilonzo,Female,Mombasa,Nurse,0701860124,2018-08-25,3000,Active,23127777
+MEM0537,Tabitha Gitonga,Male,Mombasa,Small Business Owner,0711137609,2022-12-28,2500,Active,36384281
+MEM0538,Felix Akoth,Female,Mombasa,Civil Servant,0712832264,2018-08-08,1000,Suspended,15350019
+MEM0539,Ann Munyao,Male,Mombasa,Civil Servant,0729781478,2022-03-01,1500,Active,31679002
+MEM0540,Njoroge Akoth,Male,Mombasa,Police Officer,0729219787,2021-02-07,1000,Active,24059618
+MEM0541,Duncan Mureithi,Female,Kisumu,Accountant,0722623142,2018-11-15,5000,Active,23119771
+MEM0542,George Kyalo,Male,Kisumu,Police Officer,0722383428,2019-07-12,2000,Active,29844641
+MEM0543,Joyce Rotich,Female,Nairobi,Teacher,0700716814,2019-08-01,1000,Active,16488464
+MEM0544,Philip Mulwa,Female,Nairobi,Accountant,0720415005,2021-05-23,2000,Inactive,18340735
+MEM0545,Achieng Mwenda,Male,Nairobi,Nurse,0733162621,2019-03-08,2000,Active,37995436
+MEM0546,Calvin Korir,Female,Nairobi,Teacher,0700996086,2022-01-09,1500,Active,21757719
+MEM0547,Grace Ouma,Female,Nairobi,Small Business Owner,0720619419,2019-12-04,1000,Active,12366649
+MEM0548,David Mutua,Female,Nakuru,Nurse,0722501172,2019-02-21,2000,Active,17593537
+MEM0549,Achieng Mwangi,Female,Kisumu,Driver,0720565588,2021-11-08,1500,Active,19268333
+MEM0550,Charles Oguta,Male,Nairobi,Police Officer,0722335351,2021-07-22,2500,Active,14712395
+MEM0551,Wambua Okello,Female,Nairobi,Small Business Owner,0712497753,2022-10-13,1500,Active,39951977
+MEM0552,Winnie Nderitu,Male,Nairobi,Shopkeeper,0711791982,2019-06-25,3000,Active,23470109
+MEM0553,Mutua Ouma,Male,Mombasa,Teacher,0720658358,2020-11-01,2000,Inactive,14143013
+MEM0554,Esther Kilonzo,Female,Nairobi,Engineer,0722792482,2020-09-27,2000,Active,34359811
+MEM0555,Wanjiru Njeri,Male,Mombasa,Engineer,0700132826,2019-05-30,3000,Active,34818702
+MEM0556,Irene Kilonzo,Male,Mombasa,Farmer,0701127254,2023-01-29,1500,Active,29660539
+MEM0557,Duncan Matheka,Male,Nakuru,Small Business Owner,0701968386,2023-02-03,1000,Active,32559225
+MEM0558,Alice Awino,Female,Nairobi,Engineer,0700949602,2022-09-29,500,Active,15095113
+MEM0559,Mwikali Wanjiku,Female,Nairobi,Accountant,0712894036,2018-04-15,2500,Inactive,16906545
+MEM0560,Peter Odero,Female,Mombasa,Civil Servant,0722457506,2018-07-09,2000,Active,24877409
+MEM0561,Catherine Okumu,Male,Nairobi,Teacher,0720548317,2021-07-23,2000,Active,14778434
+MEM0562,Purity Adhiambo,Male,Nairobi,Accountant,0722946616,2020-05-17,1000,Inactive,32556566
+MEM0563,Moses Ojwang,Male,Nairobi,Shopkeeper,0733680170,2022-08-26,1000,Active,19243249
+MEM0564,Mark Otieno,Female,Mombasa,Civil Servant,0720856334,2019-07-21,500,Active,35520984
+MEM0565,Peter Gicheru,Male,Mombasa,Accountant,0700660737,2018-04-01,1500,Suspended,20988051
+MEM0566,Chebet Nderitu,Male,Mombasa,Nurse,0729544423,2018-01-08,2000,Active,10361348
+MEM0567,Harrison Gitau,Male,Nairobi,Police Officer,0700270444,2019-11-15,1500,Active,31366006
+MEM0568,Duncan Odero,Female,Nairobi,Police Officer,0720590033,2022-04-29,1500,Active,13935666
+MEM0569,Lilian Muturi,Male,Nairobi,Driver,0712238278,2018-09-25,3000,Suspended,27469117
+MEM0570,Njenga Okumu,Male,Mombasa,Small Business Owner,0722394335,2021-07-28,1000,Active,20440816
+MEM0571,Duncan Chebet,Male,Nairobi,Accountant,0700189691,2023-06-30,1500,Active,27590607
+MEM0572,Ian Mulwa,Male,Nairobi,Teacher,0712908807,2019-06-21,2500,Active,13443094
+MEM0573,Fredrick Munyao,Female,Nairobi,Teacher,0700453928,2018-11-27,1500,Active,35892546
+MEM0574,Eric Mugo,Female,Mombasa,Shopkeeper,0720140481,2022-02-27,2000,Active,31090495
+MEM0575,Collins Njoroge,Male,Nairobi,Engineer,0700479264,2020-06-23,3000,Active,30080532
+MEM0576,Isaac Maina,Female,Kisumu,Civil Servant,0700791252,2021-02-03,3000,Active,25807806
+MEM0577,Achieng Oguta,Female,Nairobi,Shopkeeper,0700920433,2021-12-16,1000,Active,17790707
+MEM0578,Edwin Ogola,Female,Mombasa,Accountant,0722230344,2020-05-25,3000,Active,32160066
+MEM0579,Emmanuel Okello,Male,Kisumu,Nurse,0700696053,2021-02-22,1500,Active,24705967
+MEM0580,Agnes Mwangi,Male,Mombasa,Teacher,0701976609,2018-01-20,1000,Active,20026809
+MEM0581,Chepkemoi Kariuki,Female,Nairobi,Engineer,0700988765,2018-08-18,1500,Active,37589808
+MEM0582,Samuel Owino,Female,Nakuru,Civil Servant,0711565367,2018-06-04,5000,Active,14189757
+MEM0583,Dennis Mwangi,Female,Nakuru,Driver,0729118105,2023-04-20,1500,Active,28161654
+MEM0584,Calvin Awino,Male,Kisumu,Accountant,0729109301,2022-12-14,1000,Active,34927981
+MEM0585,Moses Ouma,Male,Nairobi,Nurse,0729138801,2021-11-16,2000,Active,30469401
+MEM0586,Henry Anyango,Female,Nairobi,Teacher,0701603534,2023-01-26,1000,Active,25246041
+MEM0587,Ann Aoko,Male,Kisumu,Police Officer,0712528459,2018-11-02,500,Active,15156531
+MEM0588,Dennis Njoroge,Male,Nakuru,Civil Servant,0722707723,2021-01-22,1000,Inactive,12362323
+MEM0589,Fredrick Murimi,Female,Mombasa,Small Business Owner,0733389874,2018-03-15,1000,Active,39535512
+MEM0590,Caroline Gathogo,Male,Mombasa,Civil Servant,0701167154,2022-09-06,1000,Active,35308438
+MEM0591,Felix Muturi,Male,Nairobi,Small Business Owner,0729288538,2020-01-27,1000,Active,34159419
+MEM0592,Chepkemoi Kimani,Male,Nairobi,Accountant,0700903184,2021-04-07,2000,Inactive,21454717
+MEM0593,Gregory Mutua,Female,Kisumu,Teacher,0700372148,2021-02-05,1000,Suspended,39368029
+MEM0594,Jacqueline Chebet,Male,Nakuru,Police Officer,0729233402,2018-10-31,1000,Active,19130254
+MEM0595,Sharon Gitau,Female,Kisumu,Small Business Owner,0712760957,2020-05-30,3000,Active,11374779
+MEM0596,John Okello,Male,Nairobi,Small Business Owner,0711254037,2018-09-19,1500,Active,22801073
+MEM0597,Peter Kyalo,Male,Mombasa,Engineer,0722343974,2018-03-27,2000,Active,38117857
+MEM0598,Fredrick Ogol,Male,Mombasa,Driver,0733786398,2019-09-24,1000,Active,39900916
+MEM0599,Ian Awuor,Female,Nairobi,Teacher,0722293205,2020-01-17,1000,Active,18571559
+MEM0600,Simon Wanjiku,Male,Mombasa,Small Business Owner,0729708059,2023-01-16,500,Active,13786200
+MEM0601,Mwangi Munyao,Male,Nairobi,Civil Servant,0701143993,2023-03-26,1000,Active,31035217
+MEM0602,Chepkemoi Wanjiku,Male,Nakuru,Civil Servant,0712163766,2022-06-19,1000,Active,25654004
+MEM0603,Kevin Oguta,Female,Nairobi,Accountant,0700369950,2023-06-15,1000,Active,24291187
+MEM0604,Rotich Okumu,Male,Nairobi,Driver,0722811341,2022-10-29,500,Active,29628623
+MEM0605,Lydiah Ouma,Male,Nakuru,Police Officer,0701666693,2018-03-23,1000,Active,15652445
+MEM0606,Duncan Ouma,Female,Nairobi,Accountant,0722729752,2023-01-15,1500,Active,39401813
+MEM0607,Gregory Wainaina,Male,Kisumu,Farmer,0712466718,2020-01-03,1000,Active,33815616
+MEM0608,Sharon Kilonzo,Female,Nairobi,Shopkeeper,0733181242,2019-03-07,1500,Active,33200773
+MEM0609,Collins Awino,Male,Nairobi,Farmer,0729218680,2021-10-28,1500,Active,39041566
+MEM0610,Hellen Nderitu,Female,Nairobi,Nurse,0733348490,2019-05-27,2000,Active,36657506
+MEM0611,Victor Odero,Male,Kisumu,Driver,0712441614,2021-09-27,500,Active,26351212
+MEM0612,Eunice Kilonzo,Female,Nairobi,Engineer,0701969414,2018-07-30,2500,Inactive,35449678
+MEM0613,Ndegwa Wambua,Female,Nakuru,Shopkeeper,0720174861,2019-12-26,2000,Active,19767927
+MEM0614,Elijah Gakuya,Female,Nairobi,Driver,0720396835,2022-05-17,500,Active,17537446
+MEM0615,Emmanuel Maina,Female,Nairobi,Nurse,0711125894,2021-02-20,3000,Active,27543576
+MEM0616,David Nderitu,Female,Nakuru,Civil Servant,0701736450,2022-12-16,3000,Active,13457789
+MEM0617,Rotich Akoth,Female,Mombasa,Nurse,0701451258,2022-11-27,500,Active,12972015
+MEM0618,Thomas Onyango,Male,Kisumu,Small Business Owner,0720783648,2020-04-12,1000,Active,34553767
+MEM0619,Njenga Ouma,Female,Mombasa,Accountant,0701593549,2023-06-18,2500,Inactive,30243927
+MEM0620,Chepkemoi Awino,Male,Nairobi,Farmer,0700752126,2021-06-25,2000,Active,30100681
+MEM0621,Simon Mutua,Male,Nairobi,Teacher,0722268100,2022-03-15,1000,Active,39027438
+MEM0622,Ian Munyao,Female,Mombasa,Shopkeeper,0701146777,2018-11-13,1000,Active,22165138
+MEM0623,Henry Wainaina,Female,Mombasa,Driver,0700257352,2023-03-11,1500,Active,18096435
+MEM0624,Dennis Wambua,Female,Nairobi,Farmer,0722211392,2023-03-20,1500,Active,39170924
+MEM0625,Kariuki Nderitu,Female,Mombasa,Shopkeeper,0712947285,2019-04-30,2000,Active,38520106
+MEM0626,Collins Nderitu,Female,Nairobi,Shopkeeper,0701635608,2022-11-06,1500,Active,32310697
+MEM0627,Christine Adhiambo,Male,Nairobi,Civil Servant,0701325306,2018-11-29,1500,Active,26593733
+MEM0628,Eunice Awuor,Male,Nairobi,Police Officer,0720971080,2023-06-23,2000,Active,38075299
+MEM0629,Janet Kabiru,Male,Nairobi,Small Business Owner,0722788976,2022-06-27,500,Active,33541757
+MEM0630,Mutua Kyalo,Male,Mombasa,Accountant,0711499601,2022-07-19,1000,Active,24511530
+MEM0631,Njoroge Waithaka,Male,Kisumu,Shopkeeper,0733181066,2018-12-29,2000,Active,24149035
+MEM0632,John Waithaka,Male,Mombasa,Teacher,0712692867,2022-12-11,3000,Active,11900943
+MEM0633,Rotich Kilonzo,Male,Kisumu,Shopkeeper,0720665148,2020-04-24,1500,Active,31409737
+MEM0634,Mercy Musyoka,Female,Nairobi,Small Business Owner,0733988767,2018-02-20,1500,Active,13529593
+MEM0635,Simon Odero,Male,Nairobi,Accountant,0722736592,2019-01-03,1000,Active,39030195
+MEM0636,Ian Njoroge,Female,Nairobi,Farmer,0729791218,2022-02-17,1500,Active,35835086
+MEM0637,Boniface Njeri,Female,Nairobi,Nurse,0729432335,2023-03-09,1500,Active,19402071
+MEM0638,Victor Musyoka,Female,Nairobi,Accountant,0700304497,2019-11-12,1000,Active,38263736
+MEM0639,George Gathogo,Male,Mombasa,Accountant,0700355882,2022-05-22,1000,Active,34295165
+MEM0640,Winnie Nderitu,Female,Kisumu,Civil Servant,0701354880,2023-03-22,1500,Active,34576696
+MEM0641,Christine Aoko,Female,Nairobi,Driver,0701342106,2020-04-23,500,Suspended,19256514
+MEM0642,Kevin Mutua,Male,Nakuru,Accountant,0729430108,2022-07-01,1000,Active,18444670
+MEM0643,Ndegwa Wainaina,Female,Kisumu,Police Officer,0733826739,2021-10-03,1000,Active,31483742
+MEM0644,Edward Gitonga,Female,Nairobi,Shopkeeper,0712566624,2022-11-05,1000,Active,27039730
+MEM0645,Emmanuel Mugo,Male,Kisumu,Teacher,0720479459,2022-02-14,1000,Inactive,21033692
+MEM0646,Philip Gathogo,Male,Nairobi,Farmer,0733469082,2022-07-19,3000,Suspended,24080961
+MEM0647,Janet Gathogo,Male,Nairobi,Shopkeeper,0733479895,2019-05-24,2000,Active,32380084
+MEM0648,Michael Kirui,Female,Nairobi,Driver,0729734617,2019-07-01,2000,Active,38061445
+MEM0649,Francis Mwangi,Female,Kisumu,Driver,0712570777,2018-11-23,2500,Active,18430519
+MEM0650,Caroline Muturi,Female,Nairobi,Civil Servant,0720340924,2022-06-01,1500,Active,21967567
+MEM0651,Wanjiru Mulwa,Male,Nairobi,Shopkeeper,0711663731,2021-12-07,500,Active,12788150
+MEM0652,Chebet Odero,Female,Kisumu,Accountant,0712914165,2018-08-10,1500,Inactive,10433728
+MEM0653,Henry Otieno,Female,Nairobi,Engineer,0720806850,2020-02-23,2000,Active,13393392
+MEM0654,Eunice Mugo,Male,Nakuru,Nurse,0711734960,2022-11-22,2000,Inactive,33927518
+MEM0655,Simon Korir,Male,Nairobi,Engineer,0700934515,2018-03-21,1500,Active,37044586
+MEM0656,Grace Maina,Male,Kisumu,Teacher,0700458163,2022-10-25,1000,Active,26292312
+MEM0657,Tabitha Gicheru,Male,Kisumu,Small Business Owner,0701223694,2020-08-21,1000,Active,18145144
+MEM0658,Felix Kariuki,Female,Nakuru,Small Business Owner,0733528346,2019-04-01,1500,Active,29655653
+MEM0659,Duncan Wanjiku,Female,Kisumu,Driver,0720629558,2019-02-13,2000,Active,26608641
+MEM0660,Agnes Kimani,Male,Nairobi,Teacher,0711703992,2022-07-31,2000,Active,17428553
+MEM0661,Kevin Nderitu,Male,Kisumu,Shopkeeper,0729763360,2023-02-24,1500,Active,29833502
+MEM0662,Joseph Aoko,Female,Kisumu,Small Business Owner,0712288655,2020-07-31,5000,Active,24554806
+MEM0663,Victor Onyango,Female,Nakuru,Civil Servant,0729116265,2019-12-18,2000,Active,32334785
+MEM0664,Isaac Korir,Male,Nairobi,Farmer,0711226656,2019-09-18,1000,Active,18917230
+MEM0665,Stephen Chebet,Female,Nairobi,Shopkeeper,0720376169,2022-08-08,1000,Suspended,13488501
+MEM0666,Rotich Matheka,Female,Mombasa,Accountant,0729878938,2022-06-17,1000,Active,36203391
+MEM0667,Catherine Kabiru,Male,Nairobi,Nurse,0733232537,2022-11-20,1000,Active,37724712
+MEM0668,Achieng Onyango,Male,Mombasa,Teacher,0722974364,2019-04-12,1000,Active,33774291
+MEM0669,Stephen Rotich,Female,Kisumu,Driver,0720125093,2019-04-02,1000,Active,26369931
+MEM0670,Kevin Akello,Male,Mombasa,Shopkeeper,0711176561,2018-02-18,1000,Active,28812988
+MEM0671,Laban Okumu,Male,Mombasa,Farmer,0711639908,2021-09-13,1000,Active,30355481
+MEM0672,Stephen Ogol,Female,Nairobi,Accountant,0720542875,2019-01-31,3000,Inactive,38098884
+MEM0673,Mercy Yego,Female,Nairobi,Accountant,0701233644,2020-03-27,500,Active,28979060
+MEM0674,Joyce Gicheru,Female,Kisumu,Shopkeeper,0720830782,2019-11-04,1500,Active,22610505
+MEM0675,Mercy Mureithi,Male,Mombasa,Nurse,0712846568,2019-07-25,1500,Active,30355052
+MEM0676,Alex Aoko,Female,Nairobi,Shopkeeper,0700224811,2022-11-06,5000,Active,27413635
+MEM0677,Philip Njoroge,Female,Mombasa,Nurse,0701964776,2018-05-23,1000,Inactive,39205558
+MEM0678,Duncan Ochieng,Female,Kisumu,Civil Servant,0701720209,2023-06-04,1500,Inactive,32399497
+MEM0679,Mwangi Chebet,Female,Mombasa,Nurse,0733857260,2022-05-03,5000,Active,22837497
+MEM0680,Kevin Ogol,Female,Kisumu,Civil Servant,0722177335,2019-07-26,3000,Active,11412682
+MEM0681,Eric Murimi,Female,Mombasa,Civil Servant,0701570700,2019-12-21,2500,Active,30188437
+MEM0682,Tabitha Yego,Male,Nairobi,Shopkeeper,0720761475,2021-08-06,1000,Active,13617089
+MEM0683,Victor Munyao,Female,Mombasa,Farmer,0729876677,2020-11-09,1000,Active,29808625
+MEM0684,Njenga Ochieng,Female,Kisumu,Shopkeeper,0720403343,2020-03-29,2000,Active,38125514
+MEM0685,Jacqueline Wanjiku,Female,Nairobi,Police Officer,0729834122,2021-10-23,3000,Active,36628796
+MEM0686,Felix Otieno,Female,Nairobi,Civil Servant,0711869070,2022-09-24,2000,Active,31564687
+MEM0687,Fredrick Achieng,Female,Nairobi,Shopkeeper,0711858862,2021-01-03,2000,Active,13307686
+MEM0688,Gregory Gathogo,Female,Nairobi,Police Officer,0733259652,2019-11-10,1000,Active,29314787
+MEM0689,Philip Okumu,Female,Nakuru,Shopkeeper,0722722385,2023-04-08,2500,Active,13184770
+MEM0690,Jacqueline Owino,Female,Kisumu,Farmer,0701806642,2018-02-26,1000,Active,13941751
+MEM0691,Kamau Rotich,Female,Nakuru,Small Business Owner,0729497803,2018-08-25,1000,Active,35636615
+MEM0692,Elijah Gathogo,Female,Kisumu,Driver,0701559891,2022-12-02,1500,Active,18006567
+MEM0693,Alex Okumu,Female,Nairobi,Civil Servant,0711633376,2023-06-11,1500,Active,22103111
+MEM0694,Mary Auma,Male,Mombasa,Nurse,0700910555,2019-06-19,1000,Active,29465666
+MEM0695,Philip Nderitu,Male,Nairobi,Police Officer,0733343545,2019-01-01,1000,Active,32569026
+MEM0696,Beatrice Gathogo,Female,Nairobi,Civil Servant,0700617255,2021-04-04,2000,Active,33800336
+MEM0697,Joshua Wainaina,Male,Mombasa,Farmer,0701150633,2023-05-26,1000,Inactive,30260359
+MEM0698,Paul Ojwang,Female,Mombasa,Shopkeeper,0720399113,2019-06-28,2000,Suspended,24154243
+MEM0699,Calvin Adhiambo,Male,Nairobi,Shopkeeper,0701502724,2018-03-20,1000,Active,37356376
+MEM0700,Felix Aoko,Male,Nairobi,Nurse,0701894086,2018-08-11,1500,Active,23211893
+MEM0701,Peter Mureithi,Male,Nairobi,Shopkeeper,0711250152,2021-05-06,1500,Active,34101779
+MEM0702,Daniel Mulwa,Male,Nakuru,Shopkeeper,0722953527,2020-06-08,500,Active,34974891
+MEM0703,Eric Aoko,Female,Mombasa,Teacher,0712551451,2019-12-09,1000,Active,11337644
+MEM0704,Brian Ogol,Male,Nakuru,Police Officer,0700703075,2022-02-01,1000,Active,21653603
+MEM0705,Patrick Mugo,Female,Nairobi,Shopkeeper,0701204298,2022-05-30,500,Active,31712686
+MEM0706,Mwangi Maina,Female,Nakuru,Shopkeeper,0701398624,2019-10-05,5000,Suspended,36445467
+MEM0707,Collins Mutua,Male,Kisumu,Small Business Owner,0711224309,2020-06-12,1000,Active,24772173
+MEM0708,Ann Awuor,Male,Kisumu,Driver,0700387150,2021-05-26,2500,Active,38596195
+MEM0709,Wambua Okello,Male,Nakuru,Shopkeeper,0729560237,2020-11-13,1000,Active,25459968
+MEM0710,Mark Mwangi,Male,Kisumu,Civil Servant,0712277545,2018-08-25,2000,Active,29238263
+MEM0711,David Waithaka,Female,Mombasa,Farmer,0700372031,2020-02-28,2500,Active,38971274
+MEM0712,Calvin Ojwang,Female,Mombasa,Small Business Owner,0733342928,2023-01-17,2000,Active,27541095
+MEM0713,Felix Korir,Male,Nairobi,Shopkeeper,0700247852,2021-03-26,1500,Active,11250782
+MEM0714,James Akoth,Male,Kisumu,Civil Servant,0733316890,2019-01-25,1500,Active,23377908
+MEM0715,Eunice Muturi,Female,Mombasa,Accountant,0711128678,2019-06-06,1000,Inactive,37285144
+MEM0716,Kevin Kimani,Female,Kisumu,Teacher,0722666052,2018-04-01,3000,Active,37018719
+MEM0717,Michael Mugo,Female,Nairobi,Farmer,0712106988,2021-12-22,2500,Active,31076154
+MEM0718,Caroline Chepkemoi,Male,Nairobi,Police Officer,0729972944,2020-06-12,5000,Active,34977460
+MEM0719,Allan Aoko,Male,Kisumu,Accountant,0722487491,2018-01-04,1000,Active,36092958
+MEM0720,Kevin Mwenda,Female,Nairobi,Engineer,0712395528,2020-11-30,2000,Active,24488714
+MEM0721,Wangari Korir,Male,Kisumu,Small Business Owner,0720867651,2023-03-11,3000,Active,32450208
+MEM0722,Alice Gicheru,Male,Nairobi,Small Business Owner,0729646196,2022-07-10,1000,Active,10860354
+MEM0723,Kamau Okello,Female,Mombasa,Teacher,0711971406,2021-01-07,500,Active,17249083
+MEM0724,Emmanuel Njeri,Male,Nairobi,Small Business Owner,0729409268,2021-11-07,2000,Active,29023014
+MEM0725,Daniel Awuor,Male,Nairobi,Civil Servant,0733851043,2022-01-13,2000,Inactive,16064550
+MEM0726,Lucy Waithaka,Male,Nakuru,Teacher,0733565992,2023-04-10,2500,Inactive,10810152
+MEM0727,Isaac Oguta,Female,Nairobi,Nurse,0720617215,2022-02-28,1000,Active,31156783
+MEM0728,Rotich Ngethe,Male,Nakuru,Farmer,0700191083,2022-02-18,2500,Active,21038141
+MEM0729,John Wanjiku,Male,Nairobi,Shopkeeper,0711391979,2021-10-05,1000,Active,13315318
+MEM0730,Chebet Mwenda,Male,Nakuru,Accountant,0733470903,2019-02-08,1000,Active,19807183
+MEM0731,Beatrice Musyoka,Male,Nakuru,Engineer,0733880431,2020-01-16,1000,Active,23829254
+MEM0732,Eunice Maina,Male,Nairobi,Nurse,0712862693,2020-06-02,2500,Active,36907139
+MEM0733,Mwangi Gitau,Male,Kisumu,Driver,0733443005,2018-05-24,2000,Active,10952092
+MEM0734,David Akoth,Male,Nairobi,Civil Servant,0711631691,2023-04-28,1500,Active,34463105
+MEM0735,Mutua Ogol,Male,Mombasa,Engineer,0701389520,2021-09-22,1500,Active,25321731
+MEM0736,Allan Maina,Male,Mombasa,Accountant,0729761257,2023-03-01,3000,Active,38502143
+MEM0737,Winnie Onyango,Male,Nakuru,Police Officer,0733841143,2019-11-08,1500,Active,39895141
+MEM0738,Lucy Gitau,Female,Nairobi,Police Officer,0701140220,2021-06-30,2500,Inactive,18506525
+MEM0739,Ian Rotich,Male,Kisumu,Civil Servant,0720205317,2019-10-05,1500,Active,22032247
+MEM0740,Mary Odero,Male,Mombasa,Teacher,0701299647,2021-09-20,1500,Active,37459887
+MEM0741,Mark Kilonzo,Male,Nairobi,Accountant,0722765318,2022-10-03,1500,Active,32918069
+MEM0742,Catherine Ngethe,Male,Nairobi,Small Business Owner,0722357859,2018-09-13,1000,Active,21544393
+MEM0743,Njenga Wainaina,Male,Mombasa,Nurse,0711714825,2022-01-14,2000,Active,21823858
+MEM0744,Francis Gitonga,Female,Nairobi,Shopkeeper,0720330906,2023-01-18,1500,Active,18345023
+MEM0745,Emmanuel Kilonzo,Male,Nairobi,Teacher,0712378172,2019-09-08,1000,Active,19282245
+MEM0746,Moses Chepkemoi,Male,Kisumu,Civil Servant,0729258789,2020-11-04,3000,Active,24965511
+MEM0747,Christine Wainaina,Female,Kisumu,Nurse,0729953403,2019-09-26,1500,Active,36296937
+MEM0748,Allan Gakuya,Male,Mombasa,Farmer,0711869194,2021-09-27,1500,Active,11603872
+MEM0749,Emmanuel Muthoni,Male,Nakuru,Driver,0729396327,2020-04-16,3000,Active,20888829
+MEM0750,Florence Waithaka,Male,Nairobi,Accountant,0711308218,2019-10-31,2000,Active,25374794
+MEM0751,Edward Yego,Male,Mombasa,Teacher,0733641386,2020-04-04,1000,Active,33458051
+MEM0752,Grace Kuria,Female,Kisumu,Driver,0712103353,2021-11-28,3000,Active,31300599
+MEM0753,Alice Gathogo,Male,Kisumu,Police Officer,0720170528,2019-08-29,2000,Active,18830643
+MEM0754,Mutua Mwenda,Male,Nairobi,Engineer,0729684829,2021-02-09,1000,Inactive,35790310
+MEM0755,Caroline Ochieng,Male,Kisumu,Teacher,0712844479,2018-09-18,1000,Active,36630173
+MEM0756,Laban Kyalo,Male,Nairobi,Shopkeeper,0711140698,2019-01-28,2500,Inactive,15388577
+MEM0757,Daniel Kamau,Female,Nairobi,Civil Servant,0720821401,2020-05-11,2000,Active,17025661
+MEM0758,Eric Korir,Female,Mombasa,Accountant,0700743173,2021-09-23,1500,Active,28739404
+MEM0759,Lydiah Auma,Male,Kisumu,Civil Servant,0720761679,2023-04-10,3000,Active,35864054
+MEM0760,Kamau Gakuya,Male,Nairobi,Civil Servant,0712768692,2020-02-16,2500,Active,38973678
+MEM0761,Njenga Okumu,Male,Kisumu,Small Business Owner,0701607755,2021-10-19,1000,Inactive,28363592
+MEM0762,Harrison Ogol,Female,Nairobi,Civil Servant,0711414678,2022-03-13,1000,Active,31752899
+MEM0763,Allan Kabiru,Male,Nairobi,Police Officer,0712406305,2023-01-23,1000,Active,20800539
+MEM0764,Esther Ouma,Male,Nairobi,Farmer,0729614034,2018-12-23,2000,Active,34853927
+MEM0765,Chebet Njoroge,Female,Nakuru,Farmer,0720726882,2021-06-14,500,Active,23466093
+MEM0766,David Akello,Female,Nairobi,Small Business Owner,0701669810,2021-03-11,2000,Active,35277196
+MEM0767,Stephen Munyao,Female,Nakuru,Small Business Owner,0729409767,2019-09-09,2500,Active,21695032
+MEM0768,Ann Kariuki,Male,Kisumu,Small Business Owner,0733329565,2020-04-11,3000,Active,36204945
+MEM0769,James Kabiru,Female,Nairobi,Teacher,0733891634,2021-01-27,1000,Inactive,37362614
+MEM0770,Collins Oguta,Female,Mombasa,Driver,0700539976,2022-09-04,2500,Active,15773308
+MEM0771,Joshua Auma,Male,Kisumu,Accountant,0729441203,2018-01-01,1000,Active,38344094
+MEM0772,Njoroge Ochieng,Female,Nakuru,Civil Servant,0712794595,2019-09-15,2500,Inactive,26771726
+MEM0773,Samuel Kariuki,Female,Nairobi,Nurse,0720221445,2019-08-11,1000,Active,38744282
+MEM0774,Laban Gicheru,Male,Nairobi,Engineer,0711587310,2019-03-07,1500,Active,12981964
+MEM0775,Alice Gitau,Male,Mombasa,Small Business Owner,0701792702,2020-05-30,2500,Active,21199236
+MEM0776,Collins Kilonzo,Male,Mombasa,Police Officer,0733464462,2022-05-29,1000,Active,21804606
+MEM0777,Sharon Musyoka,Male,Nairobi,Police Officer,0720839056,2021-04-02,1000,Inactive,30683043
+MEM0778,Samuel Onyango,Male,Nairobi,Civil Servant,0711911264,2021-05-27,2000,Active,28060161
+MEM0779,Kevin Odero,Male,Nairobi,Teacher,0729980930,2021-09-02,2000,Active,34825559
+MEM0780,George Maina,Female,Kisumu,Civil Servant,0729730255,2019-10-22,2000,Active,37016541
+MEM0781,Michael Adhiambo,Male,Nakuru,Small Business Owner,0720820604,2020-08-10,2000,Inactive,38059412
+MEM0782,Faith Chepkemoi,Female,Mombasa,Teacher,0712130369,2020-06-23,1500,Active,17636013
+MEM0783,Achieng Mureithi,Male,Mombasa,Accountant,0700380938,2020-06-24,1000,Active,20621123
+MEM0784,Victor Odero,Female,Nakuru,Nurse,0712992325,2021-10-15,1000,Active,37805991
+MEM0785,Emmanuel Maina,Female,Kisumu,Nurse,0720163756,2019-03-14,1000,Active,20262125
+MEM0786,Edwin Maina,Male,Mombasa,Engineer,0701374312,2020-11-12,3000,Suspended,13399002
+MEM0787,Boniface Adhiambo,Male,Kisumu,Police Officer,0701531204,2020-08-27,2000,Suspended,34224309
+MEM0788,Christine Gitau,Male,Nairobi,Teacher,0720948330,2022-06-14,1500,Active,13034410
+MEM0789,Kevin Mulwa,Female,Nairobi,Driver,0729545853,2023-01-20,1500,Active,31456439
+MEM0790,Winnie Ojwang,Male,Nairobi,Civil Servant,0720373363,2023-05-20,3000,Active,23625289
+MEM0791,David Muthoni,Male,Mombasa,Accountant,0722381351,2022-06-19,1000,Active,20499998
+MEM0792,Winnie Achieng,Male,Nairobi,Nurse,0729863559,2022-02-16,2000,Active,30864136
+MEM0793,Ruth Waithaka,Male,Kisumu,Engineer,0712456349,2018-12-14,1500,Active,26683018
+MEM0794,Peter Munyao,Female,Nairobi,Small Business Owner,0722423496,2021-09-11,2000,Active,31457220
+MEM0795,Alice Mugo,Female,Mombasa,Engineer,0729529718,2018-06-23,500,Active,16247571
+MEM0796,Harrison Musyoka,Female,Kisumu,Small Business Owner,0712700315,2019-08-05,3000,Active,35386091
+MEM0797,Christine Chebet,Male,Kisumu,Small Business Owner,0711662050,2020-11-21,3000,Active,22841159
+MEM0798,Achieng Kariuki,Female,Nairobi,Teacher,0712917419,2021-09-21,2000,Active,16782998
+MEM0799,Alex Ogola,Male,Nairobi,Farmer,0733743095,2021-07-20,2000,Active,18881200
+MEM0800,Harrison Mulwa,Female,Nakuru,Police Officer,0701235492,2021-06-22,3000,Active,38721788
+MEM0801,Mark Kilonzo,Female,Mombasa,Teacher,0722857311,2019-11-18,2000,Active,33736273
+MEM0802,Michael Yego,Female,Kisumu,Nurse,0722941390,2018-07-11,1000,Active,26288684
+MEM0803,Catherine Anyango,Male,Mombasa,Driver,0720194636,2022-08-04,2000,Inactive,21763979
+MEM0804,Beatrice Wainaina,Male,Mombasa,Shopkeeper,0701469833,2023-05-04,2000,Active,21307885
+MEM0805,Emmanuel Waithaka,Female,Nairobi,Driver,0733786745,2022-03-19,1500,Active,37041432
+MEM0806,Hellen Gitonga,Female,Nakuru,Driver,0722643842,2019-04-27,2000,Active,24689093
+MEM0807,Ian Gakuya,Female,Kisumu,Accountant,0712479687,2021-10-09,3000,Active,22128692
+MEM0808,Laban Odhiambo,Male,Nairobi,Accountant,0712264618,2019-09-28,3000,Active,35325907
+MEM0809,Atieno Waithaka,Male,Mombasa,Engineer,0720852689,2019-04-06,1500,Suspended,15342448
+MEM0810,Florence Wambua,Male,Nairobi,Driver,0712404283,2022-07-10,1000,Active,15655371
+MEM0811,Caroline Kilonzo,Female,Nakuru,Accountant,0711492041,2019-02-12,5000,Active,20830021
+MEM0812,Gerald Ouma,Female,Mombasa,Engineer,0701533476,2018-10-29,2500,Active,10534432
+MEM0813,Brian Mwangi,Male,Kisumu,Accountant,0712679811,2018-02-20,1000,Suspended,13740668
+MEM0814,Emmanuel Rotich,Female,Nairobi,Engineer,0712114303,2018-04-05,3000,Active,16368287
+MEM0815,Isaac Ochieng,Male,Nakuru,Teacher,0722986552,2019-05-17,3000,Active,29523540
+MEM0816,Chepkemoi Ndegwa,Male,Nairobi,Shopkeeper,0722891802,2020-08-31,1500,Active,20419576
+MEM0817,Lydiah Kirui,Male,Nakuru,Farmer,0733625860,2021-06-05,2000,Active,26982544
+MEM0818,Grace Kimani,Male,Nairobi,Driver,0720929783,2022-10-07,1500,Active,33495762
+MEM0819,Mark Ndolo,Female,Nairobi,Shopkeeper,0729144339,2022-04-23,500,Active,31552271
+MEM0820,Mark Gitonga,Male,Nairobi,Accountant,0711396841,2018-05-30,1000,Active,28806765
+MEM0821,Allan Odhiambo,Male,Nairobi,Police Officer,0700125422,2020-07-21,2500,Active,19938946
+MEM0822,Brian Kariuki,Male,Nairobi,Police Officer,0712762233,2020-04-28,500,Active,35393006
+MEM0823,Kariuki Mwenda,Male,Mombasa,Civil Servant,0712135418,2022-12-20,1000,Inactive,28787839
+MEM0824,Lydiah Chepkemoi,Female,Nairobi,Farmer,0700886343,2021-07-13,1500,Active,28060819
+MEM0825,Mercy Achieng,Male,Nakuru,Civil Servant,0733952487,2021-03-24,1500,Suspended,15969605
+MEM0826,Felix Mbugua,Male,Nakuru,Shopkeeper,0720787106,2019-02-03,3000,Active,23353698
+MEM0827,Lydiah Njoroge,Male,Mombasa,Shopkeeper,0720237566,2022-01-11,1000,Active,30752442
+MEM0828,Esther Oguta,Male,Nairobi,Accountant,0700189041,2021-11-27,1000,Active,33341673
+MEM0829,Beatrice Akoth,Male,Kisumu,Civil Servant,0733177479,2020-02-26,2000,Suspended,12547967
+MEM0830,Philip Gicheru,Male,Kisumu,Engineer,0720121133,2020-10-09,1500,Active,16664568
+MEM0831,Stephen Akoth,Male,Nairobi,Shopkeeper,0722878727,2020-03-29,1000,Active,13132765
+MEM0832,Beatrice Wanjiku,Male,Nairobi,Engineer,0711200198,2019-05-15,1500,Suspended,13038092
+MEM0833,Robert Mugo,Male,Kisumu,Shopkeeper,0720303721,2018-10-30,1000,Active,33879533
+MEM0834,Rose Akoth,Female,Kisumu,Police Officer,0700922892,2021-09-05,1000,Active,30064522
+MEM0835,Emmanuel Kirui,Male,Nairobi,Accountant,0701545804,2021-11-09,1500,Active,39424990
+MEM0836,Catherine Nderitu,Male,Nakuru,Small Business Owner,0722416831,2018-01-12,1500,Inactive,32252969
+MEM0837,Duncan Odero,Female,Nairobi,Shopkeeper,0700581197,2023-01-03,3000,Active,23577367
+MEM0838,Jacqueline Chepkemoi,Male,Kisumu,Shopkeeper,0712204521,2022-03-18,1500,Inactive,38595382
+MEM0839,Ann Ouma,Male,Mombasa,Teacher,0700787919,2022-10-29,2000,Active,18837232
+MEM0840,Lucy Njeri,Female,Kisumu,Nurse,0729494873,2022-04-27,2000,Active,14891076
+MEM0841,Duncan Mwenda,Male,Mombasa,Nurse,0700550399,2022-12-19,500,Active,34021218
+MEM0842,Rose Munyao,Male,Kisumu,Nurse,0733333049,2018-08-07,2000,Active,21414008
+MEM0843,Simon Ogol,Male,Mombasa,Small Business Owner,0720688247,2022-05-14,1000,Inactive,27878732
+MEM0844,Beatrice Ogol,Male,Nairobi,Engineer,0700606828,2020-05-20,5000,Active,21871546
+MEM0845,Lucy Waithaka,Female,Nairobi,Accountant,0700837022,2019-03-25,1000,Active,23312947
+MEM0846,Christine Ogol,Female,Kisumu,Farmer,0712500984,2018-12-27,1500,Active,14463822
+MEM0847,Beatrice Kariuki,Male,Kisumu,Police Officer,0722621178,2022-07-05,500,Active,22926514
+MEM0848,Adhiambo Awino,Female,Kisumu,Driver,0720490843,2023-05-16,5000,Active,13477112
+MEM0849,Wanjiru Ngethe,Male,Mombasa,Engineer,0733574239,2021-11-26,1500,Active,38353813
+MEM0850,Felix Kirui,Female,Nairobi,Engineer,0712705950,2020-11-26,2000,Active,34705536
+MEM0851,Achieng Kimani,Female,Kisumu,Civil Servant,0722516650,2020-08-09,500,Active,37332537
+MEM0852,Irene Musyoka,Male,Kisumu,Driver,0712568802,2018-04-13,2000,Active,39409266
+MEM0853,Christine Kimani,Female,Kisumu,Farmer,0701599967,2021-02-15,1000,Active,39777917
+MEM0854,Wangari Nderitu,Male,Nairobi,Shopkeeper,0733774044,2019-05-26,3000,Inactive,36792785
+MEM0855,Winnie Chepkemoi,Male,Nakuru,Shopkeeper,0700448583,2023-02-22,1000,Active,19862058
+MEM0856,Kamau Nderitu,Female,Kisumu,Driver,0711949011,2022-10-04,1000,Active,30582960
+MEM0857,Caroline Ogol,Male,Mombasa,Civil Servant,0733200022,2018-09-06,500,Active,29129609
+MEM0858,Irene Achieng,Female,Mombasa,Small Business Owner,0711317770,2020-07-23,1500,Active,12758563
+MEM0859,Erick Wambua,Male,Nairobi,Driver,0729722234,2018-10-01,2000,Inactive,20866142
+MEM0860,Faith Ndegwa,Female,Nairobi,Nurse,0712187963,2022-06-30,500,Active,17543870
+MEM0861,Adhiambo Ogol,Female,Nairobi,Engineer,0711522780,2020-08-09,2500,Active,24849045
+MEM0862,Edward Ouma,Female,Nairobi,Nurse,0729648830,2021-09-29,1500,Inactive,37720458
+MEM0863,Wanjiru Kabiru,Male,Kisumu,Engineer,0712161795,2020-12-23,1500,Active,11368109
+MEM0864,Ann Kabiru,Female,Nairobi,Police Officer,0729364266,2021-02-18,1500,Active,18251155
+MEM0865,Laban Kimani,Female,Kisumu,Teacher,0720426584,2021-05-04,1500,Active,28387399
+MEM0866,Collins Wanjiku,Male,Nairobi,Small Business Owner,0701974851,2019-10-12,2000,Active,15201333
+MEM0867,Michael Musyoka,Female,Mombasa,Civil Servant,0711138283,2023-04-30,1000,Active,32398298
+MEM0868,Charles Waithaka,Male,Mombasa,Police Officer,0701822466,2022-03-27,1000,Active,19186810
+MEM0869,Isaac Kariuki,Female,Mombasa,Police Officer,0720105842,2022-12-31,3000,Active,10884467
+MEM0870,Daniel Awuor,Female,Nakuru,Teacher,0700823934,2020-06-25,3000,Active,26592429
+MEM0871,Harrison Nderitu,Male,Nairobi,Accountant,0712891714,2021-06-08,1500,Active,17531916
+MEM0872,Kevin Kyalo,Female,Nairobi,Nurse,0729672091,2022-07-28,1000,Active,37959162
+MEM0873,Njoroge Mwenda,Male,Kisumu,Small Business Owner,0729428221,2022-01-13,2000,Inactive,33322984
+MEM0874,Mutua Maina,Male,Nairobi,Farmer,0712437471,2023-01-01,1500,Inactive,17347587
+MEM0875,Sharon Waithaka,Female,Kisumu,Shopkeeper,0729843302,2020-10-30,500,Active,18232638
+MEM0876,Mercy Waithaka,Male,Nairobi,Accountant,0729639420,2020-05-23,1000,Active,39364689
+MEM0877,Daniel Maina,Female,Nairobi,Teacher,0733210146,2022-08-29,2000,Active,17577686
+MEM0878,Gerald Ndegwa,Female,Nairobi,Accountant,0720833222,2023-02-01,2000,Active,24775892
+MEM0879,Christine Wanjiku,Female,Nairobi,Nurse,0733493935,2021-01-27,500,Active,31739750
+MEM0880,James Auma,Female,Nairobi,Small Business Owner,0711893653,2020-07-02,1000,Active,37230271
+MEM0881,Michael Kamau,Female,Kisumu,Engineer,0722269966,2023-01-12,1000,Active,17246686
+MEM0882,Hellen Ndolo,Male,Nairobi,Police Officer,0733274270,2018-11-22,2000,Active,14878032
+MEM0883,Mark Akoth,Female,Mombasa,Teacher,0712558858,2022-03-04,500,Active,10416690
+MEM0884,Fredrick Mulwa,Female,Nairobi,Accountant,0733140959,2022-10-31,1000,Active,19958725
+MEM0885,Joshua Owino,Male,Nairobi,Civil Servant,0720619238,2020-08-30,2500,Active,18176550
+MEM0886,Gregory Auma,Male,Kisumu,Shopkeeper,0711756581,2020-07-10,1000,Active,10697058
+MEM0887,Joshua Onyango,Female,Nairobi,Engineer,0729246659,2019-06-15,2000,Active,38773977
+MEM0888,Samuel Korir,Male,Mombasa,Accountant,0720518807,2022-03-20,1000,Active,30542711
+MEM0889,Mary Muthoni,Male,Kisumu,Small Business Owner,0722411166,2019-05-22,500,Active,26215960
+MEM0890,Michael Wanjiku,Female,Kisumu,Engineer,0733556633,2022-09-17,1000,Active,38116289
+MEM0891,Mwangi Muthoni,Female,Kisumu,Police Officer,0700854914,2021-07-29,2000,Active,24728714
+MEM0892,Grace Wainaina,Male,Nairobi,Civil Servant,0700647860,2019-07-22,3000,Active,23909179
+MEM0893,Wangari Yego,Male,Nairobi,Small Business Owner,0701744979,2022-04-18,2500,Active,28667080
+MEM0894,Kariuki Gathogo,Female,Nakuru,Accountant,0701691198,2022-05-12,1500,Active,28496080
+MEM0895,Christine Muthoni,Female,Kisumu,Farmer,0711248391,2020-12-03,2000,Active,29061793
+MEM0896,Beatrice Nderitu,Female,Nakuru,Farmer,0700648668,2020-09-19,1000,Active,16450474
+MEM0897,Wanjiru Yego,Female,Nairobi,Accountant,0712941811,2021-07-07,1000,Active,23835283
+MEM0898,Eric Ogol,Male,Nairobi,Accountant,0701644609,2019-05-05,3000,Active,16243071
+MEM0899,John Chebet,Female,Nairobi,Driver,0700595043,2019-07-17,500,Active,38450963
+MEM0900,Hellen Kirui,Female,Kisumu,Civil Servant,0729320848,2020-06-19,500,Active,27400368
+MEM0901,Mwangi Ojwang,Female,Nakuru,Nurse,0701883039,2018-06-08,1000,Active,29491622
+MEM0902,Duncan Munyao,Male,Kisumu,Driver,0711272216,2022-01-01,500,Active,23408915
+MEM0903,John Mwenda,Female,Kisumu,Civil Servant,0729110298,2019-08-09,1000,Active,31047188
+MEM0904,Laban Murimi,Male,Kisumu,Accountant,0701536525,2019-04-26,2000,Active,29309128
+MEM0905,Eunice Kuria,Female,Mombasa,Accountant,0711257652,2019-07-11,1500,Active,39816607
+MEM0906,Ian Auma,Male,Nairobi,Teacher,0729170304,2019-11-19,3000,Active,22989047
+MEM0907,David Akello,Male,Nakuru,Civil Servant,0722426988,2019-10-17,2500,Active,35058207
+MEM0908,Mary Ndegwa,Male,Mombasa,Accountant,0712308947,2023-01-03,1000,Active,18774224
+MEM0909,Calvin Odero,Male,Mombasa,Accountant,0733663852,2021-01-11,1000,Active,33714458
+MEM0910,Florence Kilonzo,Male,Nairobi,Small Business Owner,0729447115,2018-06-15,1500,Active,36736081
+MEM0911,Laban Kuria,Female,Nairobi,Engineer,0733164076,2018-10-11,2000,Active,22212770
+MEM0912,Peter Mulwa,Female,Kisumu,Shopkeeper,0729723330,2018-11-05,1000,Active,36958505
+MEM0913,Janet Mulwa,Female,Nairobi,Farmer,0711170015,2019-04-19,2000,Active,36901437
+MEM0914,Adhiambo Mulwa,Male,Kisumu,Small Business Owner,0701767254,2020-02-24,1500,Active,18843516
+MEM0915,Ruth Njoroge,Female,Nairobi,Accountant,0712461714,2021-11-22,2000,Active,24472519
+MEM0916,Atieno Wanjiku,Female,Kisumu,Driver,0722301998,2018-11-09,1500,Inactive,22422807
+MEM0917,Henry Adhiambo,Male,Mombasa,Police Officer,0700397992,2021-12-17,1000,Active,22231077
+MEM0918,Erick Mutua,Male,Nairobi,Civil Servant,0720712859,2019-03-15,3000,Active,17875420
+MEM0919,Simon Awuor,Female,Nakuru,Teacher,0700485115,2018-05-12,2500,Active,20742609
+MEM0920,Eric Chebet,Female,Mombasa,Nurse,0720367124,2020-04-29,1000,Active,28131778
+MEM0921,Achieng Anyango,Male,Nairobi,Driver,0712181239,2020-04-14,3000,Active,21981421
+MEM0922,Purity Odero,Male,Nakuru,Civil Servant,0711207978,2019-11-09,1500,Active,12585048
+MEM0923,John Mugo,Male,Nairobi,Accountant,0712393586,2021-01-16,3000,Active,33259900
+MEM0924,Emmanuel Muthoni,Male,Mombasa,Driver,0711375710,2020-08-12,2500,Active,14512829
+MEM0925,Eric Anyango,Male,Nairobi,Nurse,0733232858,2020-05-01,1500,Suspended,20793204
+MEM0926,Alex Mwenda,Female,Nakuru,Civil Servant,0720446198,2018-05-08,500,Active,38854955
+MEM0927,Collins Ngethe,Female,Mombasa,Accountant,0700946514,2019-02-28,1000,Suspended,37764543
+MEM0928,Chepkemoi Awino,Male,Nairobi,Farmer,0729319473,2022-09-02,1500,Active,33569801
+MEM0929,Wambua Musyoka,Female,Kisumu,Police Officer,0711102800,2020-05-10,2000,Active,18284433
+MEM0930,Samuel Kuria,Female,Kisumu,Small Business Owner,0712326957,2020-03-08,1000,Active,36694465
+MEM0931,Njenga Okumu,Male,Nairobi,Nurse,0733942377,2023-01-28,1000,Active,28061526
+MEM0932,Florence Owino,Female,Nairobi,Civil Servant,0711250295,2022-04-26,2500,Active,29426622
+MEM0933,Eric Mugo,Female,Nairobi,Driver,0711598560,2021-04-11,5000,Active,14320625
+MEM0934,Mutua Wainaina,Male,Kisumu,Shopkeeper,0722439044,2023-04-22,1500,Active,13242076
+MEM0935,Emmanuel Onyango,Male,Kisumu,Accountant,0733154724,2021-11-25,1000,Inactive,36314009
+MEM0936,Njoroge Ndolo,Female,Kisumu,Police Officer,0711636561,2018-02-10,1000,Active,27027325
+MEM0937,Samuel Gicheru,Male,Kisumu,Police Officer,0729546070,2022-10-21,500,Active,33768413
+MEM0938,Eunice Mugo,Male,Nairobi,Small Business Owner,0729442978,2022-12-09,3000,Suspended,25963108
+MEM0939,Wambua Mulwa,Female,Kisumu,Engineer,0700624681,2022-04-17,1000,Inactive,27963697
+MEM0940,Patrick Awuor,Female,Nairobi,Teacher,0733352468,2021-03-25,2000,Inactive,20518803
+MEM0941,Achieng Nderitu,Female,Nakuru,Farmer,0720495637,2020-02-19,1000,Inactive,13516760
+MEM0942,Stephen Wainaina,Male,Mombasa,Farmer,0720840551,2020-09-03,2000,Active,37086934
+MEM0943,Chebet Achieng,Female,Nairobi,Teacher,0729472235,2018-01-13,2000,Active,37725817
+MEM0944,John Ogola,Male,Nairobi,Shopkeeper,0700979387,2023-04-15,2500,Active,30269950
+MEM0945,Alice Ogola,Male,Mombasa,Police Officer,0701656464,2019-12-22,1000,Active,17644519
+MEM0946,Gerald Mugo,Female,Kisumu,Police Officer,0733734787,2019-09-04,500,Active,34162756
+MEM0947,Charles Matheka,Female,Mombasa,Teacher,0712274185,2022-03-24,1000,Active,21688444
+MEM0948,Peter Mutua,Male,Nairobi,Small Business Owner,0700845902,2020-03-09,3000,Active,34077470
+MEM0949,Sharon Odero,Female,Mombasa,Accountant,0711980673,2022-10-14,3000,Active,33560059
+MEM0950,Michael Mwenda,Male,Nairobi,Nurse,0720687712,2023-01-01,2000,Active,31641466
+MEM0951,Catherine Ngethe,Female,Mombasa,Shopkeeper,0729613900,2023-05-07,2000,Active,28591598
+MEM0952,Duncan Maina,Female,Nakuru,Police Officer,0700818660,2022-09-08,2000,Active,37550790
+MEM0953,Sharon Ogola,Female,Kisumu,Engineer,0733685005,2020-05-08,1000,Active,17514978
+MEM0954,Faith Gitonga,Female,Mombasa,Nurse,0720783768,2021-01-07,3000,Active,25612422
+MEM0955,Winnie Ndegwa,Female,Mombasa,Nurse,0701286659,2022-03-11,1500,Active,19030619
+MEM0956,Harrison Achieng,Male,Mombasa,Small Business Owner,0722483450,2022-02-13,1500,Active,29268939
+MEM0957,Alex Kyalo,Female,Nairobi,Engineer,0729908184,2021-01-23,1500,Active,38072087
+MEM0958,Michael Ndegwa,Male,Kisumu,Police Officer,0701863878,2022-06-27,500,Active,11785144
+MEM0959,Edwin Ndegwa,Female,Nakuru,Accountant,0720324164,2021-05-20,1000,Active,25443053
+MEM0960,Chebet Kariuki,Female,Mombasa,Nurse,0712501035,2023-01-13,2000,Active,30763681
+MEM0961,Collins Ndegwa,Female,Mombasa,Civil Servant,0701287700,2019-03-28,500,Active,24692511
+MEM0962,Hellen Rotich,Female,Kisumu,Driver,0722305349,2020-09-26,2000,Active,26681013
+MEM0963,Robert Owino,Female,Mombasa,Police Officer,0729478526,2019-03-26,1000,Active,29832780
+MEM0964,Paul Kuria,Male,Kisumu,Accountant,0712105887,2019-07-13,1500,Active,24635914
+MEM0965,Harrison Ojwang,Male,Nairobi,Nurse,0700444406,2020-06-11,1000,Active,12169554
+MEM0966,Collins Kilonzo,Female,Kisumu,Police Officer,0733486785,2020-09-21,1500,Active,15749256
+MEM0967,Patrick Kirui,Female,Kisumu,Police Officer,0700627217,2018-03-01,2000,Active,10742062
+MEM0968,Felix Owino,Female,Mombasa,Small Business Owner,0722736249,2020-03-07,1000,Active,28789097
+MEM0969,Brian Korir,Male,Nairobi,Civil Servant,0700135156,2019-11-20,2000,Inactive,25048098
+MEM0970,Catherine Njeri,Male,Mombasa,Teacher,0700772844,2021-10-01,1500,Active,28756794
+MEM0971,Alex Awuor,Female,Nairobi,Shopkeeper,0729517641,2021-10-22,2000,Inactive,31819694
+MEM0972,James Murimi,Male,Nakuru,Police Officer,0722829283,2022-06-23,3000,Active,11930915
+MEM0973,Eric Awino,Female,Nairobi,Accountant,0700387492,2020-04-08,2000,Inactive,21663624
+MEM0974,Emmanuel Matheka,Male,Nairobi,Small Business Owner,0722699975,2022-01-23,1000,Active,25992929
+MEM0975,Hellen Kimani,Male,Nairobi,Farmer,0722852908,2018-12-05,500,Active,39111058
+MEM0976,Simon Ochieng,Male,Nairobi,Accountant,0729737058,2022-09-18,1000,Active,33699797
+MEM0977,Njenga Awuor,Female,Mombasa,Small Business Owner,0729614117,2020-08-15,2000,Suspended,14962033
+MEM0978,Victor Murimi,Male,Nairobi,Civil Servant,0711596446,2023-02-27,500,Active,12139995
+MEM0979,Winnie Awuor,Male,Mombasa,Farmer,0733140048,2018-09-19,1500,Active,32884357
+MEM0980,Ruth Korir,Female,Nakuru,Accountant,0701130237,2021-06-28,2000,Inactive,21892102
+MEM0981,Henry Aoko,Female,Nakuru,Accountant,0711839916,2020-12-29,1000,Active,12194887
+MEM0982,Edward Kyalo,Male,Mombasa,Accountant,0711992278,2018-02-25,2500,Active,34121234
+MEM0983,Boniface Owino,Male,Nairobi,Police Officer,0711186847,2023-02-01,1000,Active,19264055
+MEM0984,Grace Ojwang,Male,Nairobi,Police Officer,0720974579,2020-03-17,500,Active,29117759
+MEM0985,George Kamau,Male,Nairobi,Police Officer,0733158770,2021-04-27,2000,Inactive,18456121
+MEM0986,Njenga Mutua,Female,Nairobi,Farmer,0729768444,2021-03-01,1500,Active,34419590
+MEM0987,Daniel Awino,Male,Kisumu,Police Officer,0722429500,2021-09-19,2000,Active,10925329
+MEM0988,Kevin Akoth,Male,Kisumu,Shopkeeper,0733999563,2018-02-25,1500,Active,33944851
+MEM0989,Hellen Odero,Male,Nairobi,Small Business Owner,0700993990,2018-06-21,1000,Active,30056776
+MEM0990,Agnes Auma,Female,Nairobi,Engineer,0712786927,2021-08-09,2500,Active,26468844
+MEM0991,Peter Kirui,Female,Nakuru,Nurse,0722448824,2020-05-27,2500,Active,24456256
+MEM0992,Rotich Njoroge,Male,Nairobi,Teacher,0701843764,2018-10-05,2000,Active,33629628
+MEM0993,Calvin Kuria,Female,Nairobi,Farmer,0711715354,2022-11-11,1000,Active,35647839
+MEM0994,Florence Akoth,Female,Mombasa,Driver,0701641422,2020-08-03,2000,Active,14474711
+MEM0995,Kamau Nderitu,Female,Mombasa,Civil Servant,0722796773,2019-01-08,1500,Active,23295810
+MEM0996,Kevin Anyango,Female,Kisumu,Farmer,0720536604,2018-04-13,500,Suspended,17221052
+MEM0997,Mary Mureithi,Male,Mombasa,Small Business Owner,0722168110,2019-06-17,3000,Active,32206350
+MEM0998,Atieno Yego,Male,Kisumu,Driver,0712965125,2020-02-16,1000,Active,25170352
+MEM0999,Mwangi Akoth,Female,Nairobi,Farmer,0711864366,2019-11-02,5000,Active,20396011
+MEM1000,Purity Wainaina,Female,Nairobi,Shopkeeper,0700188047,2019-03-10,1500,Inactive,28065561
+MEM1001,Mwikali Ojwang,Female,Kisumu,Police Officer,0711564937,2020-07-20,1000,Inactive,33394350
+MEM1002,Mwangi Anyango,Male,Nairobi,Driver,0722388909,2019-11-01,1500,Active,32638088
+MEM1003,Kariuki Akoth,Male,Nakuru,Accountant,0712822171,2019-11-23,3000,Active,20222729
+MEM1004,Eunice Nderitu,Male,Nairobi,Accountant,0720281370,2022-04-08,2000,Active,21090855
+MEM1005,Daniel Otieno,Male,Nairobi,Accountant,0722426279,2022-12-07,2500,Active,17803564
+MEM1006,Elijah Akello,Female,Nairobi,Civil Servant,0700687789,2020-02-16,2000,Active,29121240
+MEM1007,Rose Chepkemoi,Male,Mombasa,Teacher,0701223432,2019-07-24,2000,Inactive,36790406
+MEM1008,Boniface Mbugua,Female,Nairobi,Civil Servant,0701588900,2022-03-21,2500,Active,39392632
+MEM1009,Mercy Onyango,Female,Nairobi,Small Business Owner,0733693692,2023-05-03,1000,Active,27044139
+MEM1010,Adhiambo Muturi,Male,Nakuru,Accountant,0729192444,2022-08-31,1500,Active,23661418
+MEM1011,Boniface Awino,Female,Mombasa,Farmer,0733194960,2020-05-13,1000,Suspended,14839658
+MEM1012,Ndegwa Mugo,Male,Nairobi,Civil Servant,0711864989,2019-06-01,5000,Active,35712769
+MEM1013,John Mwangi,Female,Nairobi,Police Officer,0733294677,2022-09-06,3000,Active,28106394
+MEM1014,Mwikali Maina,Male,Mombasa,Nurse,0701719864,2018-06-17,500,Active,32861363
+MEM1015,Stephen Nderitu,Male,Nairobi,Teacher,0722903966,2020-08-21,2000,Active,29692172
+MEM1016,Henry Matheka,Female,Nakuru,Nurse,0711927050,2018-02-09,3000,Active,20551479
+MEM1017,Michael Njoroge,Male,Mombasa,Farmer,0722328092,2022-03-15,1000,Suspended,38948551
+MEM1018,Lucy Maina,Male,Nakuru,Nurse,0701582711,2021-01-09,2000,Inactive,10227342
+MEM1019,Calvin Matheka,Male,Mombasa,Farmer,0733859459,2018-04-17,3000,Active,30454595
+MEM1020,Ann Rotich,Male,Nairobi,Nurse,0712422733,2023-05-04,500,Active,11777409
+MEM1021,David Rotich,Male,Nairobi,Small Business Owner,0712883714,2019-12-18,2000,Active,33894571
+MEM1022,Purity Nderitu,Female,Mombasa,Small Business Owner,0711425569,2019-04-05,1000,Active,35315688
+MEM1023,Rotich Odhiambo,Female,Nairobi,Accountant,0722497735,2021-08-24,3000,Active,22024214
+MEM1024,Mark Awino,Male,Nairobi,Engineer,0700286650,2018-05-21,5000,Active,29711473
+MEM1025,Stephen Mwenda,Female,Nairobi,Accountant,0700247247,2022-05-19,3000,Inactive,14015907
+MEM1026,Dennis Nderitu,Male,Kisumu,Driver,0701534092,2023-05-15,1500,Active,35991964
+MEM1027,Emmanuel Korir,Male,Nairobi,Shopkeeper,0712975849,2021-08-27,3000,Active,12382814
+MEM1028,Njenga Oguta,Male,Kisumu,Teacher,0712386050,2018-03-24,2500,Active,30597403
+MEM1029,Boniface Murimi,Female,Nakuru,Accountant,0712285715,2022-03-25,1000,Active,12135026
+MEM1030,Joyce Okello,Male,Mombasa,Driver,0700371952,2018-03-05,2500,Suspended,27776197
+MEM1031,Boniface Muthoni,Female,Nairobi,Accountant,0729377395,2023-04-29,500,Suspended,23881852
+MEM1032,Victor Kyalo,Male,Kisumu,Nurse,0733613682,2019-05-22,2000,Active,34507497
+MEM1033,Patrick Yego,Male,Kisumu,Small Business Owner,0701706806,2019-02-13,1000,Inactive,15409216
+MEM1034,Njenga Ogol,Male,Nairobi,Teacher,0701465805,2022-09-15,1000,Inactive,34580511
+MEM1035,Edward Kimani,Female,Kisumu,Accountant,0729969793,2018-02-11,500,Active,16530328
+MEM1036,Beatrice Njoroge,Male,Kisumu,Civil Servant,0711138515,2021-06-26,2000,Active,18348326
+MEM1037,Henry Chepkemoi,Female,Kisumu,Small Business Owner,0720263267,2018-11-09,1000,Suspended,30183845
+MEM1038,Eric Gakuya,Male,Nairobi,Engineer,0712836296,2019-05-04,2000,Active,35962211
+MEM1039,Purity Wambua,Female,Nairobi,Driver,0720463773,2018-09-16,500,Active,35461807
+MEM1040,Lucy Akoth,Female,Mombasa,Shopkeeper,0700317523,2020-08-27,1000,Inactive,16017679
+MEM1041,Chepkemoi Auma,Male,Nairobi,Engineer,0701833640,2021-10-03,1500,Active,38042761
+MEM1042,Alice Kilonzo,Male,Mombasa,Nurse,0700195166,2018-08-23,2500,Active,16081341
+MEM1043,Ndegwa Ogol,Male,Nairobi,Farmer,0712370756,2021-03-01,1000,Inactive,10989438
+MEM1044,Alex Mulwa,Male,Kisumu,Farmer,0712590406,2023-04-26,2000,Active,31790483
+MEM1045,Florence Mugo,Female,Nakuru,Engineer,0700132975,2019-03-23,3000,Active,26608606
+MEM1046,George Matheka,Male,Nairobi,Police Officer,0733642145,2020-08-10,2000,Active,34450011
+MEM1047,Samuel Mulwa,Female,Nakuru,Civil Servant,0711598293,2021-12-03,1000,Inactive,14009757
+MEM1048,Njenga Kyalo,Male,Nakuru,Police Officer,0711589943,2019-06-09,500,Inactive,21133028
+MEM1049,Samuel Rotich,Female,Kisumu,Teacher,0701490366,2022-04-20,3000,Inactive,12989892
+MEM1050,Gregory Gakuya,Female,Nairobi,Small Business Owner,0720790282,2020-01-26,500,Active,13159533
+MEM1051,Mark Munyao,Female,Nakuru,Farmer,0722438031,2018-12-10,3000,Active,23541068
+MEM1052,Peter Mugo,Female,Nairobi,Civil Servant,0733760049,2021-05-25,1500,Active,29260340
+MEM1053,Chebet Ochieng,Male,Kisumu,Farmer,0701108281,2021-05-28,3000,Active,33519261
+MEM1054,Catherine Aoko,Female,Nakuru,Engineer,0711541878,2023-05-28,2500,Active,32996632
+MEM1055,Michael Rotich,Female,Nairobi,Farmer,0729450971,2022-03-12,5000,Active,23000702
+MEM1056,Lucy Kuria,Female,Kisumu,Teacher,0701779352,2022-01-11,1500,Active,37008430
+MEM1057,Faith Kirui,Male,Kisumu,Police Officer,0733296200,2018-08-23,2500,Active,23675920
+MEM1058,Catherine Ochieng,Female,Mombasa,Police Officer,0701421153,2022-05-12,1500,Active,22793993
+MEM1059,Jacqueline Ochieng,Male,Nakuru,Engineer,0711589518,2022-08-05,1500,Active,33367811
+MEM1060,Joshua Kuria,Female,Nakuru,Shopkeeper,0711888576,2018-12-02,2000,Active,25918476
+MEM1061,Duncan Mwangi,Male,Nairobi,Nurse,0722560333,2023-05-30,3000,Active,14647607
+MEM1062,George Yego,Male,Nakuru,Teacher,0729722408,2019-09-30,5000,Active,38429514
+MEM1063,Chepkemoi Awuor,Female,Nairobi,Civil Servant,0720866461,2018-08-10,2500,Active,21519080
+MEM1064,David Muturi,Female,Nakuru,Nurse,0720596576,2021-03-31,1500,Active,16140112
+MEM1065,Emmanuel Gakuya,Female,Nakuru,Teacher,0712364843,2018-02-22,1500,Active,13216638
+MEM1066,Pauline Mulwa,Female,Nairobi,Nurse,0701730133,2023-03-18,2000,Active,20441984
+MEM1067,James Rotich,Female,Kisumu,Accountant,0701605998,2019-10-01,1000,Active,21917089
+MEM1068,Erick Anyango,Male,Nakuru,Civil Servant,0720414754,2021-03-25,1000,Inactive,15952923
+MEM1069,Joseph Kariuki,Male,Nakuru,Police Officer,0722345684,2021-10-19,1500,Active,33731806
+MEM1070,Florence Ndolo,Female,Nakuru,Police Officer,0733541435,2023-02-03,1000,Active,24440515
+MEM1071,Rotich Muturi,Male,Nakuru,Small Business Owner,0720911673,2023-05-17,1000,Active,39496511
+MEM1072,Ian Mwenda,Female,Nairobi,Police Officer,0700705540,2020-02-08,1000,Active,18456191
+MEM1073,Sharon Oguta,Male,Kisumu,Nurse,0720721885,2020-03-23,500,Active,26766539
+MEM1074,Eric Chepkemoi,Male,Nairobi,Civil Servant,0722271993,2023-04-13,500,Active,13044544
+MEM1075,Lilian Matheka,Female,Nakuru,Nurse,0711415183,2022-01-04,5000,Active,16193020
+MEM1076,Ndegwa Kyalo,Female,Nairobi,Driver,0712695578,2019-02-11,1500,Active,18741116
+MEM1077,Purity Mwenda,Male,Nakuru,Civil Servant,0711236200,2018-06-05,1500,Active,23469680
+MEM1078,Winnie Okello,Male,Kisumu,Accountant,0701926874,2021-04-27,2000,Suspended,16731263
+MEM1079,Beatrice Aoko,Female,Kisumu,Small Business Owner,0722194789,2021-11-15,1000,Active,17604783
+MEM1080,Rose Mwenda,Female,Nakuru,Small Business Owner,0700931377,2022-08-29,3000,Active,21784339
+MEM1081,Isaac Awino,Male,Mombasa,Farmer,0711940422,2021-07-08,2500,Inactive,31717276
+MEM1082,Mwikali Kariuki,Male,Kisumu,Driver,0701580995,2019-05-13,500,Suspended,31240201
+MEM1083,Njoroge Ojwang,Female,Nairobi,Nurse,0720273373,2018-07-28,1500,Inactive,12736981
+MEM1084,Tabitha Onyango,Male,Nairobi,Accountant,0729100884,2021-11-28,3000,Active,21399117
+MEM1085,Hellen Mwangi,Male,Nairobi,Shopkeeper,0711310141,2022-05-02,3000,Active,25157459
+MEM1086,Rotich Muturi,Male,Kisumu,Nurse,0711415917,2019-09-10,1500,Active,35226738
+MEM1087,Chebet Rotich,Male,Nairobi,Shopkeeper,0700184279,2022-10-08,2000,Active,13155052
+MEM1088,Felix Kimani,Female,Nairobi,Nurse,0711347656,2021-11-02,1000,Active,27578068
+MEM1089,Francis Achieng,Male,Mombasa,Civil Servant,0712557754,2021-05-14,5000,Active,18649253
+MEM1090,Ian Muthoni,Female,Mombasa,Shopkeeper,0733859309,2022-07-08,1000,Active,10684535
+MEM1091,Eric Matheka,Male,Kisumu,Shopkeeper,0712261625,2018-09-05,3000,Active,39504454
+MEM1092,John Rotich,Female,Mombasa,Engineer,0701105184,2022-06-19,2000,Active,30339335
+MEM1093,Fredrick Waithaka,Female,Nairobi,Small Business Owner,0729267069,2021-03-05,2000,Active,12043494
+MEM1094,John Mureithi,Male,Mombasa,Farmer,0701204766,2022-05-22,1500,Active,28694126
+MEM1095,Robert Murimi,Male,Nakuru,Civil Servant,0729676537,2018-03-26,1000,Active,11984617
+MEM1096,Harrison Ojwang,Male,Mombasa,Farmer,0720832723,2019-12-13,1000,Active,32907949
+MEM1097,Daniel Okello,Female,Kisumu,Driver,0712595248,2020-12-27,1000,Inactive,22520735
+MEM1098,Janet Kariuki,Female,Nairobi,Civil Servant,0720971730,2020-05-27,1000,Active,13204123
+MEM1099,Duncan Wanjiku,Female,Kisumu,Nurse,0729840529,2021-09-16,2500,Active,15654361
+MEM1100,Sharon Odero,Male,Nairobi,Police Officer,0712900122,2020-01-29,1500,Active,10058012
+MEM1101,Pauline Awuor,Female,Nairobi,Teacher,0733506400,2018-05-22,500,Inactive,27754353
+MEM1102,Grace Adhiambo,Male,Nairobi,Accountant,0711433821,2020-11-02,5000,Active,10422063
+MEM1103,Moses Kabiru,Female,Nairobi,Small Business Owner,0711519308,2021-08-19,3000,Suspended,10156398
+MEM1104,Beatrice Chebet,Female,Nairobi,Driver,0701396951,2019-11-30,3000,Active,20967590
+MEM1105,Patrick Gitau,Female,Nairobi,Teacher,0720725935,2018-01-26,5000,Active,22910185
+MEM1106,Emmanuel Yego,Female,Mombasa,Shopkeeper,0720660060,2022-10-06,1000,Active,20276510
+MEM1107,Pauline Kabiru,Male,Nakuru,Police Officer,0733463716,2020-05-10,1500,Active,10927899
+MEM1108,Beatrice Kirui,Male,Nairobi,Police Officer,0729802416,2022-08-12,2500,Active,36844826
+MEM1109,Jacqueline Aoko,Female,Mombasa,Teacher,0722332463,2020-09-30,2000,Active,29061556
+MEM1110,Gerald Gitau,Male,Nairobi,Police Officer,0711905142,2018-08-05,1000,Active,28903382
+MEM1111,Agnes Okello,Female,Kisumu,Engineer,0712487063,2020-06-06,2500,Active,22577409
+MEM1112,Pauline Mwangi,Female,Mombasa,Nurse,0701456359,2023-05-22,1000,Active,38835290
+MEM1113,Njenga Njoroge,Female,Nairobi,Driver,0722740225,2020-01-12,1000,Active,12328316
+MEM1114,Joshua Okumu,Male,Nairobi,Engineer,0720181023,2021-07-25,1500,Inactive,15784547
+MEM1115,Patrick Adhiambo,Male,Nairobi,Civil Servant,0712244787,2022-12-31,2000,Active,16324409
+MEM1116,George Aoko,Female,Nairobi,Police Officer,0729297101,2022-08-25,2000,Active,31356783
+MEM1117,Lydiah Maina,Female,Kisumu,Police Officer,0722321493,2020-07-30,500,Active,30833020
+MEM1118,Moses Rotich,Female,Nakuru,Nurse,0700556550,2021-12-19,3000,Active,26716863
+MEM1119,David Njeri,Male,Mombasa,Police Officer,0733456082,2018-11-10,1000,Active,16099749
+MEM1120,Stephen Gathogo,Male,Nairobi,Police Officer,0720785815,2020-06-10,1000,Active,27958801
+MEM1121,Achieng Matheka,Female,Nairobi,Small Business Owner,0711546390,2018-12-27,3000,Inactive,17327410
+MEM1122,Rose Chebet,Female,Nakuru,Police Officer,0711398806,2022-02-11,5000,Active,21584599
+MEM1123,Simon Njoroge,Female,Nairobi,Civil Servant,0700505605,2020-12-04,3000,Active,13253631
+MEM1124,Kevin Musyoka,Male,Kisumu,Accountant,0729136518,2023-06-01,2500,Active,39262722
+MEM1125,Erick Aoko,Female,Nairobi,Civil Servant,0700542223,2021-08-25,2000,Active,32923753
+MEM1126,Joseph Ndolo,Male,Nairobi,Farmer,0711271487,2019-07-08,2000,Inactive,15189903
+MEM1127,Grace Aoko,Male,Nairobi,Civil Servant,0720815485,2021-06-15,500,Active,30123207
+MEM1128,Ndegwa Mwenda,Female,Mombasa,Civil Servant,0733587506,2022-07-14,1500,Active,22555004
+MEM1129,John Gitonga,Female,Kisumu,Civil Servant,0733463108,2023-02-27,1500,Active,29259741
+MEM1130,Erick Ouma,Male,Nairobi,Civil Servant,0733787728,2021-01-07,1000,Active,15936728
+MEM1131,Caroline Chepkemoi,Male,Kisumu,Civil Servant,0720942583,2022-05-06,2000,Active,39911654
+MEM1132,Joshua Aoko,Female,Kisumu,Small Business Owner,0722268698,2020-09-17,1500,Active,24787357
+MEM1133,Purity Kimani,Male,Kisumu,Driver,0701234993,2020-08-10,500,Active,33701762
+MEM1134,Ndegwa Matheka,Female,Kisumu,Small Business Owner,0720819636,2020-06-11,1000,Active,38386145
+MEM1135,Robert Yego,Female,Nairobi,Farmer,0729112151,2022-08-19,2000,Active,39516892
+MEM1136,Lucy Gitau,Male,Nairobi,Small Business Owner,0729785577,2022-02-06,500,Active,35903471
+MEM1137,Caroline Ogol,Female,Mombasa,Teacher,0720542978,2021-04-28,3000,Active,15955643
+MEM1138,Chebet Mwenda,Female,Nakuru,Engineer,0722417670,2019-07-04,1500,Inactive,27023127
+MEM1139,Faith Odhiambo,Male,Nairobi,Small Business Owner,0720371213,2019-10-23,1500,Active,14994568
+MEM1140,Wanjiru Kuria,Male,Nairobi,Shopkeeper,0733732958,2022-10-11,2000,Active,37325436
+MEM1141,Kariuki Gitau,Male,Mombasa,Nurse,0729626449,2019-05-18,2500,Active,37480927
+MEM1142,James Njoroge,Male,Nairobi,Teacher,0701918941,2022-08-29,1000,Active,24935294
+MEM1143,Wangari Gitonga,Female,Kisumu,Police Officer,0729846610,2023-03-30,2000,Active,11018097
+MEM1144,Allan Kabiru,Female,Nairobi,Shopkeeper,0701985174,2018-06-27,2000,Active,30873628
+MEM1145,Kamau Oguta,Male,Kisumu,Accountant,0701217096,2019-07-26,1000,Active,11301048
+MEM1146,Dennis Gakuya,Male,Kisumu,Police Officer,0711544664,2022-12-11,3000,Active,28038521
+MEM1147,Laban Mbugua,Female,Kisumu,Civil Servant,0720807494,2020-07-12,2500,Active,39804171
+MEM1148,Faith Mugo,Female,Nairobi,Teacher,0733257692,2019-05-15,2000,Active,36630390
+MEM1149,Elijah Mutua,Female,Nairobi,Driver,0722453491,2022-03-17,3000,Suspended,14036030
+MEM1150,Joshua Onyango,Male,Kisumu,Farmer,0700307212,2020-08-09,3000,Active,37085299
+MEM1151,Isaac Rotich,Male,Nairobi,Civil Servant,0729556013,2021-03-13,2000,Active,20457753
+MEM1152,Lilian Mureithi,Male,Nairobi,Small Business Owner,0722587339,2021-06-03,2500,Active,19778799
+MEM1153,Christine Wainaina,Female,Kisumu,Small Business Owner,0700141779,2021-09-30,2000,Inactive,13616326
+MEM1154,Edwin Matheka,Female,Nairobi,Shopkeeper,0733613405,2020-02-16,2000,Active,21712309
+MEM1155,Kevin Awino,Male,Kisumu,Small Business Owner,0729484936,2019-11-20,2000,Active,32918752
+MEM1156,Ndegwa Maina,Male,Mombasa,Engineer,0722728441,2018-02-28,2500,Active,16053781
+MEM1157,Harrison Mwenda,Female,Kisumu,Teacher,0701364583,2020-10-09,1000,Inactive,29800682
+MEM1158,Simon Murimi,Male,Kisumu,Civil Servant,0720453854,2022-10-09,3000,Active,27397598
+MEM1159,Fredrick Okello,Female,Kisumu,Teacher,0700904083,2019-10-28,3000,Active,15616518
+MEM1160,Sharon Wainaina,Male,Nairobi,Small Business Owner,0722669113,2019-01-08,500,Active,13346100
+MEM1161,Mark Akello,Male,Kisumu,Accountant,0700287410,2020-09-25,2500,Active,26698398
+MEM1162,John Korir,Female,Mombasa,Nurse,0700474221,2019-03-11,1000,Active,16481363
+MEM1163,Felix Odhiambo,Female,Mombasa,Farmer,0720118369,2019-12-28,1000,Active,30250212
+MEM1164,Wambua Munyao,Female,Nairobi,Teacher,0729440401,2022-06-22,2000,Active,15209413
+MEM1165,James Kamau,Female,Mombasa,Farmer,0700766876,2019-06-14,1000,Active,30575296
+MEM1166,Gerald Gicheru,Female,Mombasa,Teacher,0722724719,2019-11-29,2500,Active,21321154
+MEM1167,Edward Mulwa,Female,Kisumu,Accountant,0733474597,2019-07-27,2500,Active,25256095
+MEM1168,Isaac Kimani,Male,Nairobi,Police Officer,0722657075,2022-12-08,1500,Active,32095190
+MEM1169,Kariuki Wambua,Female,Nairobi,Civil Servant,0720360704,2021-05-05,500,Active,28387172
+MEM1170,Elijah Mwangi,Male,Nairobi,Nurse,0711188129,2021-12-07,1000,Active,37909574
+MEM1171,Njoroge Ojwang,Male,Nakuru,Engineer,0733232177,2022-12-08,2000,Inactive,23047501
+MEM1172,Gerald Rotich,Female,Nakuru,Police Officer,0711763664,2019-07-20,5000,Active,36308776
+MEM1173,Ann Oguta,Female,Nairobi,Accountant,0729552041,2021-02-12,2000,Active,25030223
+MEM1174,Allan Ogola,Female,Nakuru,Teacher,0700462163,2018-01-21,1000,Inactive,13905119
+MEM1175,Rose Gicheru,Male,Nairobi,Accountant,0729822460,2020-11-24,2000,Active,32438019
+MEM1176,Mwangi Kamau,Male,Nairobi,Civil Servant,0712965674,2023-04-26,1500,Active,28604652
+MEM1177,Catherine Musyoka,Female,Mombasa,Engineer,0729142615,2019-01-27,2500,Active,12196593
+MEM1178,Lucy Muthoni,Male,Mombasa,Shopkeeper,0733442452,2018-06-25,1000,Active,21352938
+MEM1179,Alex Kamau,Male,Nakuru,Small Business Owner,0701140147,2019-05-10,2500,Active,18261845
+MEM1180,Thomas Wanjiku,Female,Kisumu,Nurse,0711738953,2022-01-14,1500,Active,22270638
+MEM1181,Tabitha Ogola,Female,Nairobi,Accountant,0733500464,2020-04-12,5000,Active,14743971
+MEM1182,Francis Onyango,Female,Nakuru,Farmer,0733454180,2020-09-27,1000,Active,18034654
+MEM1183,Edwin Nderitu,Female,Nairobi,Police Officer,0700543054,2021-02-11,2000,Active,37433617
+MEM1184,Njenga Ngethe,Male,Mombasa,Farmer,0720123470,2022-04-02,3000,Active,26467446
+MEM1185,Ruth Kilonzo,Male,Nakuru,Civil Servant,0711883041,2019-05-08,1000,Inactive,16319647
+MEM1186,Victor Otieno,Female,Nairobi,Police Officer,0700856646,2021-11-15,3000,Active,36644029
+MEM1187,Tabitha Kilonzo,Female,Mombasa,Teacher,0733977504,2020-09-02,2000,Active,23565543
+MEM1188,Harrison Wainaina,Male,Kisumu,Shopkeeper,0720222080,2021-08-15,500,Active,11395541
+MEM1189,James Njeri,Female,Kisumu,Civil Servant,0712698626,2021-12-28,1000,Active,22023271
+MEM1190,Ndegwa Auma,Female,Kisumu,Engineer,0700417929,2020-10-02,2000,Inactive,11967101
+MEM1191,Michael Mureithi,Male,Nairobi,Driver,0712827981,2020-07-06,500,Active,26120334
+MEM1192,Ian Matheka,Male,Nairobi,Accountant,0722492415,2022-06-12,2000,Inactive,37209535
+MEM1193,Achieng Gitau,Male,Kisumu,Police Officer,0729325663,2018-02-05,1000,Active,38306564
+MEM1194,Erick Muthoni,Female,Kisumu,Civil Servant,0720388134,2018-07-10,2000,Inactive,32134517
+MEM1195,Fredrick Gicheru,Female,Mombasa,Nurse,0711390302,2019-08-26,500,Active,33744372
+MEM1196,Joseph Chepkemoi,Male,Nairobi,Nurse,0722733992,2019-03-30,3000,Active,35320561
+MEM1197,Joseph Chepkemoi,Male,Nairobi,Teacher,0720290065,2020-04-08,5000,Active,38154255
+MEM1198,Alice Mwenda,Female,Nairobi,Police Officer,0700385925,2021-11-17,5000,Active,29835139
+MEM1199,Boniface Mureithi,Male,Nairobi,Accountant,0722526962,2019-05-14,2000,Active,13314519
+MEM1200,Francis Wanjiku,Female,Mombasa,Shopkeeper,0712119628,2019-09-20,1000,Active,38446580
+MEM1201,Gregory Kabiru,Female,Kisumu,Civil Servant,0720789137,2021-09-21,2500,Active,27443063
+MEM1202,Kamau Kyalo,Male,Kisumu,Shopkeeper,0711388115,2021-04-06,500,Active,13051892
+MEM1203,James Ogol,Female,Mombasa,Civil Servant,0700584904,2020-01-26,500,Active,32263788
+MEM1204,Felix Achieng,Female,Nairobi,Engineer,0701201866,2020-08-27,1000,Active,31971580
+MEM1205,Lydiah Odero,Male,Nairobi,Teacher,0712335745,2021-02-07,1500,Active,20755975
+MEM1206,Edward Mureithi,Male,Nairobi,Small Business Owner,0722843449,2020-12-23,2500,Inactive,27694509
+MEM1207,Catherine Musyoka,Female,Nakuru,Nurse,0701331795,2019-12-06,2000,Active,28891034
+MEM1208,Achieng Owino,Female,Mombasa,Farmer,0733741084,2020-05-21,1500,Active,29296710
+MEM1209,Boniface Kariuki,Female,Nairobi,Police Officer,0700863535,2022-03-08,1000,Active,33562120
+MEM1210,Thomas Achieng,Female,Mombasa,Farmer,0729716472,2021-02-01,5000,Active,27848464
+MEM1211,Tabitha Awuor,Male,Nairobi,Driver,0720765607,2019-11-09,1500,Active,27504435
+MEM1212,Elijah Mwenda,Male,Mombasa,Driver,0701667759,2019-12-22,1500,Active,23226650
+MEM1213,Kevin Odhiambo,Female,Nakuru,Shopkeeper,0720598705,2021-12-10,1000,Active,35398137
+MEM1214,Isaac Muthoni,Male,Nairobi,Police Officer,0722459609,2020-07-18,2500,Active,28333508
+MEM1215,Brian Kimani,Male,Nairobi,Nurse,0701435169,2019-07-09,2000,Active,31582160
+MEM1216,Rotich Mwangi,Male,Nairobi,Driver,0701962588,2019-09-20,1000,Active,16742162
+MEM1217,Thomas Ogol,Male,Nairobi,Farmer,0729259151,2019-05-30,500,Active,19481192
+MEM1218,Esther Murimi,Male,Kisumu,Teacher,0729995857,2019-04-18,2000,Active,20748035
+MEM1219,Eunice Gitau,Female,Mombasa,Police Officer,0729320869,2018-09-05,2000,Active,14545809
+MEM1220,Brian Muturi,Female,Nairobi,Small Business Owner,0711805676,2022-01-17,1000,Active,25029183
+MEM1221,Joseph Ouma,Female,Mombasa,Nurse,0720368113,2019-01-30,5000,Active,35619567
+MEM1222,Grace Ndolo,Female,Nairobi,Police Officer,0720133833,2019-10-09,1000,Active,16645170
+MEM1223,Christine Mwangi,Male,Nairobi,Nurse,0733762054,2018-09-02,1500,Active,19830077
+MEM1224,Chepkemoi Akello,Male,Nairobi,Accountant,0729688592,2022-03-02,3000,Active,31016458
+MEM1225,Philip Murimi,Female,Mombasa,Driver,0701187128,2021-01-02,1500,Suspended,24304898
+MEM1226,Joyce Munyao,Male,Nairobi,Shopkeeper,0712884346,2023-05-02,2000,Active,23563979
+MEM1227,Stephen Awino,Female,Kisumu,Teacher,0701418801,2022-04-10,1500,Active,24600836
+MEM1228,David Akello,Male,Nairobi,Police Officer,0700887331,2021-11-14,1000,Inactive,22652267
+MEM1229,Boniface Gathogo,Female,Mombasa,Civil Servant,0701573431,2019-01-15,5000,Suspended,12764512
+MEM1230,Esther Ojwang,Male,Mombasa,Accountant,0729131000,2019-01-28,1500,Active,26457286
+MEM1231,Patrick Mwenda,Female,Nairobi,Accountant,0711755216,2019-03-20,3000,Active,10799741
+MEM1232,Laban Rotich,Female,Kisumu,Accountant,0711754589,2022-02-21,1000,Active,26483259
+MEM1233,Daniel Njoroge,Male,Mombasa,Teacher,0701692332,2020-09-18,1000,Active,13500348
+MEM1234,Peter Oguta,Male,Nairobi,Engineer,0720535571,2019-07-21,500,Suspended,20788236
+MEM1235,Kevin Mutua,Male,Nairobi,Small Business Owner,0722887887,2022-01-23,2000,Active,28832525
+MEM1236,Samuel Njoroge,Female,Nairobi,Shopkeeper,0700683469,2021-04-22,1500,Active,26243851
+MEM1237,Alex Njoroge,Male,Kisumu,Teacher,0729346120,2023-06-24,3000,Active,30456903
+MEM1238,Joshua Odero,Female,Nairobi,Small Business Owner,0720663706,2022-04-06,1500,Active,23046253
+MEM1239,Joseph Ndegwa,Female,Nairobi,Police Officer,0711496811,2020-12-10,5000,Active,20264219
+MEM1240,Gerald Njoroge,Female,Nairobi,Engineer,0733201690,2021-05-07,1000,Active,26697175
+MEM1241,Chebet Achieng,Female,Nakuru,Small Business Owner,0720328909,2019-08-03,3000,Active,36385861
+MEM1242,Irene Oguta,Female,Nakuru,Engineer,0712216006,2018-07-25,2500,Active,35861768
+MEM1243,Janet Ouma,Male,Nakuru,Accountant,0700287299,2022-09-02,2500,Active,19636629
+MEM1244,Mutua Aoko,Female,Kisumu,Engineer,0711904126,2019-02-02,2500,Suspended,35865190
+MEM1245,Ruth Kamau,Male,Nairobi,Accountant,0720676790,2019-08-30,2500,Active,32952989
+MEM1246,Mark Okumu,Female,Kisumu,Engineer,0720469124,2019-04-11,2000,Active,33451248
+MEM1247,Wanjiru Ogol,Female,Nakuru,Civil Servant,0712538493,2020-01-10,1000,Active,11849370
+MEM1248,Mutua Ouma,Female,Nakuru,Engineer,0700434918,2019-01-03,500,Active,27701644
+MEM1249,Sharon Mwangi,Male,Mombasa,Police Officer,0701760891,2019-09-12,3000,Inactive,37892363
+MEM1250,Mark Akello,Female,Mombasa,Civil Servant,0733796500,2018-01-29,2000,Active,11396956
+MEM1251,Chepkemoi Muthoni,Male,Nairobi,Engineer,0701626704,2021-12-21,2500,Suspended,16310880
+MEM1252,Joyce Ndegwa,Male,Nairobi,Driver,0720336033,2020-12-29,1500,Active,12992635
+MEM1253,Mary Mutua,Female,Nairobi,Teacher,0720618870,2018-09-17,1000,Active,20305231
+MEM1254,Chepkemoi Muthoni,Male,Nairobi,Teacher,0729400189,2019-07-16,1000,Active,39933658
+MEM1255,Rotich Chepkemoi,Female,Mombasa,Police Officer,0729264592,2018-04-04,2000,Active,29712217
+MEM1256,Ndegwa Kabiru,Female,Kisumu,Police Officer,0711519487,2023-06-19,1500,Active,35093728
+MEM1257,Ann Awuor,Male,Mombasa,Nurse,0700103499,2018-04-22,1000,Active,29168805
+MEM1258,Wangari Ojwang,Male,Nairobi,Driver,0701899995,2021-02-07,1500,Active,28212910
+MEM1259,Pauline Murimi,Female,Mombasa,Small Business Owner,0729788065,2019-08-22,500,Active,15816954
+MEM1260,Lilian Kariuki,Male,Mombasa,Police Officer,0711816546,2021-11-29,2000,Active,31506123
+MEM1261,Agnes Chepkemoi,Male,Nakuru,Shopkeeper,0733501975,2023-04-18,1000,Active,20524469
+MEM1262,Jacqueline Odero,Female,Kisumu,Nurse,0720538587,2018-09-16,2500,Active,34805350
+MEM1263,Adhiambo Ogola,Male,Nakuru,Teacher,0720298049,2021-07-30,1000,Active,11609137
+MEM1264,Jacqueline Yego,Female,Kisumu,Small Business Owner,0722748938,2022-11-14,1500,Active,27927869
+MEM1265,George Munyao,Male,Nairobi,Engineer,0712245303,2022-03-22,500,Active,10938286
+MEM1266,Jacqueline Awino,Female,Nairobi,Driver,0733728692,2020-10-02,500,Active,11584022
+MEM1267,Irene Ochieng,Female,Nairobi,Police Officer,0720123942,2018-07-30,1500,Active,20165178
+MEM1268,Mary Yego,Female,Kisumu,Engineer,0701739434,2022-11-23,1500,Active,22915147
+MEM1269,Agnes Gathogo,Female,Nakuru,Police Officer,0712274544,2018-01-26,2000,Active,16316253
+MEM1270,Collins Achieng,Male,Mombasa,Farmer,0729817606,2021-03-21,1000,Active,21803295
+MEM1271,Henry Anyango,Male,Nairobi,Civil Servant,0733488283,2019-08-06,2000,Active,28044354
+MEM1272,Eunice Njeri,Male,Mombasa,Farmer,0722879055,2020-08-19,3000,Active,11759435
+MEM1273,Ndegwa Njeri,Female,Nairobi,Small Business Owner,0720678874,2020-09-07,2500,Inactive,37640333
+MEM1274,Joseph Awino,Male,Nairobi,Nurse,0712991613,2020-06-21,500,Active,37695635
+MEM1275,Francis Munyao,Male,Mombasa,Accountant,0711580005,2019-11-29,1500,Active,32956780
+MEM1276,Gregory Musyoka,Male,Kisumu,Shopkeeper,0701858183,2019-01-13,1000,Active,39316681
+MEM1277,Allan Akello,Male,Nakuru,Small Business Owner,0712283722,2023-06-01,1000,Active,24556048
+MEM1278,Laban Akello,Male,Nairobi,Driver,0729847417,2018-04-16,5000,Inactive,34781293
+MEM1279,Edwin Nderitu,Female,Mombasa,Farmer,0712438400,2019-06-02,1000,Active,27058228
+MEM1280,Florence Akello,Male,Mombasa,Teacher,0711407213,2023-04-12,1500,Active,27582000
+MEM1281,Paul Ndegwa,Male,Kisumu,Civil Servant,0733132390,2022-10-31,2000,Active,38495121
+MEM1282,Mark Kariuki,Male,Kisumu,Civil Servant,0712705659,2020-09-05,2000,Active,15982423
+MEM1283,Achieng Ngethe,Female,Mombasa,Farmer,0729581498,2018-08-22,2000,Active,27070669
+MEM1284,James Ngethe,Female,Nairobi,Farmer,0712816881,2022-08-11,500,Inactive,22442786
+MEM1285,Gregory Mwenda,Male,Nakuru,Civil Servant,0729353633,2018-05-14,1000,Active,32855043
+MEM1286,Wanjiru Gakuya,Male,Nairobi,Police Officer,0711583819,2020-03-31,1500,Active,33460692
+MEM1287,Stephen Ndolo,Female,Nakuru,Civil Servant,0733942726,2020-10-04,500,Active,11500577
+MEM1288,Brian Oguta,Male,Nakuru,Shopkeeper,0701267003,2018-06-01,1500,Active,17197196
+MEM1289,Robert Akoth,Female,Nairobi,Nurse,0712584664,2021-03-27,500,Active,13310169
+MEM1290,Pauline Odhiambo,Male,Nakuru,Engineer,0733107217,2021-07-13,500,Active,25342218
+MEM1291,Victor Kamau,Female,Kisumu,Farmer,0722815153,2021-11-06,1500,Active,16231238
+MEM1292,Esther Ogola,Female,Nairobi,Farmer,0720645015,2018-04-20,1000,Inactive,39942501
+MEM1293,Grace Chebet,Male,Kisumu,Civil Servant,0729504032,2018-11-07,2000,Active,17434559
+MEM1294,George Kuria,Male,Nairobi,Engineer,0733921079,2018-11-02,2000,Suspended,33904532
+MEM1295,Alex Muthoni,Female,Nakuru,Shopkeeper,0720372660,2022-07-20,2500,Active,20747837
+MEM1296,Calvin Owino,Female,Kisumu,Accountant,0733850565,2021-02-26,1000,Active,12448248
+MEM1297,Faith Mwangi,Male,Mombasa,Driver,0722559822,2023-04-28,1000,Suspended,33959024
+MEM1298,Eunice Njeri,Female,Nairobi,Farmer,0729967962,2019-09-15,1000,Active,16831958
+MEM1299,Emmanuel Gicheru,Male,Kisumu,Engineer,0722407194,2018-06-24,2000,Inactive,26618678
+MEM1300,Thomas Maina,Male,Nairobi,Police Officer,0720968543,2019-05-24,2000,Active,16936940
+MEM1301,Charles Awino,Female,Nairobi,Shopkeeper,0722481024,2018-08-31,500,Active,29164457
+MEM1302,Erick Murimi,Female,Kisumu,Civil Servant,0720851435,2021-02-16,3000,Active,31488967
+MEM1303,Charles Njeri,Female,Kisumu,Engineer,0729549407,2022-04-15,500,Inactive,30569438
+MEM1304,John Gicheru,Female,Nairobi,Driver,0733208656,2020-05-02,1500,Active,10523204
+MEM1305,Alice Ouma,Female,Nakuru,Teacher,0711988217,2021-05-26,2000,Active,11517797
+MEM1306,John Korir,Male,Kisumu,Shopkeeper,0700894758,2021-05-05,3000,Active,22800637
+MEM1307,Moses Chebet,Female,Mombasa,Accountant,0733857065,2022-06-08,2000,Active,16913214
+MEM1308,Sharon Wainaina,Male,Nakuru,Engineer,0711484265,2021-06-20,2500,Active,33132073
+MEM1309,Jacqueline Kyalo,Female,Nairobi,Driver,0720788428,2019-04-08,1000,Active,13903421
+MEM1310,Stephen Ochieng,Male,Nairobi,Shopkeeper,0701248845,2022-05-08,2500,Active,19745605
+MEM1311,Lucy Gitau,Male,Kisumu,Civil Servant,0712934197,2020-12-06,500,Active,10159007
+MEM1312,Atieno Odero,Male,Nairobi,Driver,0729320290,2020-02-19,3000,Suspended,18066062
+MEM1313,Njenga Mutua,Male,Nairobi,Farmer,0700201843,2020-07-11,1500,Active,32132308
+MEM1314,Catherine Yego,Male,Nairobi,Civil Servant,0701773223,2023-02-04,2500,Active,37301152
+MEM1315,Samuel Muthoni,Male,Nakuru,Nurse,0733580501,2020-06-25,1500,Active,37893934
+MEM1316,Francis Oguta,Male,Kisumu,Police Officer,0729889056,2019-09-01,2000,Active,21098151
+MEM1317,Gregory Ochieng,Male,Nairobi,Accountant,0712893751,2022-10-28,1500,Active,15941072
+MEM1318,Kevin Ogol,Female,Nairobi,Driver,0700459077,2021-04-20,2000,Inactive,23083402
+MEM1319,Ndegwa Murimi,Female,Nairobi,Nurse,0700822672,2020-05-28,500,Active,37735161
+MEM1320,Faith Muthoni,Male,Nairobi,Shopkeeper,0729446723,2019-09-18,500,Active,17662886
+MEM1321,Elijah Kuria,Male,Mombasa,Shopkeeper,0729833543,2021-03-10,1000,Active,22474993
+MEM1322,Winnie Okello,Female,Kisumu,Farmer,0700695833,2021-06-25,1000,Active,38111477
+MEM1323,Caroline Achieng,Female,Kisumu,Small Business Owner,0700723303,2018-05-04,3000,Active,23487497
+MEM1324,Calvin Mureithi,Female,Mombasa,Shopkeeper,0722898304,2021-06-02,1000,Inactive,11501788
+MEM1325,Samuel Mulwa,Female,Nairobi,Shopkeeper,0711255214,2023-05-21,5000,Active,15232108
+MEM1326,Robert Kimani,Male,Mombasa,Engineer,0700127200,2022-02-24,1000,Active,14753636
+MEM1327,Eric Mutua,Male,Nakuru,Civil Servant,0712488865,2018-07-23,1000,Active,30090771
+MEM1328,Hellen Okumu,Male,Kisumu,Engineer,0701848476,2023-04-25,2500,Active,18260200
+MEM1329,Felix Ochieng,Female,Kisumu,Farmer,0700421559,2022-04-12,2000,Inactive,30862929
+MEM1330,Achieng Musyoka,Male,Nairobi,Farmer,0711695213,2019-03-02,1500,Inactive,32432238
+MEM1331,Charles Okello,Female,Mombasa,Small Business Owner,0700598372,2021-07-05,2000,Inactive,18663260
+MEM1332,Njenga Ochieng,Male,Nairobi,Farmer,0729805983,2019-03-09,2000,Active,39593156
+MEM1333,Atieno Ndolo,Male,Mombasa,Accountant,0700261943,2019-06-26,1000,Active,24188176
+MEM1334,Njenga Kilonzo,Male,Kisumu,Farmer,0711253643,2021-09-14,5000,Active,32830291
+MEM1335,Eric Gitonga,Male,Nakuru,Shopkeeper,0700502890,2018-06-16,5000,Active,29144136
+MEM1336,Laban Akoth,Male,Kisumu,Police Officer,0700767693,2018-11-18,2000,Active,33829432
+MEM1337,Ndegwa Otieno,Female,Kisumu,Small Business Owner,0712129365,2019-05-07,1000,Active,38982418
+MEM1338,Robert Ngethe,Male,Nairobi,Police Officer,0712711561,2018-12-22,2000,Active,31011463
+MEM1339,Eunice Mwenda,Male,Nairobi,Small Business Owner,0700255570,2021-02-04,500,Inactive,20393124
+MEM1340,Stephen Auma,Female,Mombasa,Nurse,0722372022,2018-06-03,500,Active,16874507
+MEM1341,Mercy Muturi,Male,Nakuru,Police Officer,0701856169,2018-11-17,1000,Active,39483643
+MEM1342,Henry Oguta,Female,Kisumu,Shopkeeper,0720600143,2018-01-06,1500,Active,31922330
+MEM1343,Rotich Mugo,Male,Mombasa,Police Officer,0711460934,2020-04-16,3000,Active,34717320
+MEM1344,Lucy Kabiru,Male,Nairobi,Shopkeeper,0711715656,2020-07-11,2000,Active,19147439
+MEM1345,Erick Kimani,Male,Mombasa,Driver,0701648759,2021-11-12,2000,Active,23730587
+MEM1346,Lilian Kimani,Male,Nairobi,Police Officer,0701496339,2021-05-01,1500,Active,33161995
+MEM1347,Irene Ojwang,Female,Mombasa,Nurse,0729779872,2020-08-20,1000,Active,10343174
+MEM1348,Boniface Ogola,Female,Nairobi,Civil Servant,0711650750,2019-08-20,1500,Active,23954864
+MEM1349,Ruth Kariuki,Female,Kisumu,Nurse,0729283906,2018-03-08,5000,Active,37633917
+MEM1350,Wanjiru Awino,Male,Nairobi,Engineer,0729498325,2019-04-20,500,Inactive,23879450
+MEM1351,Henry Mwenda,Female,Kisumu,Driver,0722801229,2019-08-14,3000,Active,22654442
+MEM1352,Wanjiru Odero,Male,Kisumu,Police Officer,0733458997,2021-12-18,2000,Active,19331040
+MEM1353,Edward Ochieng,Male,Kisumu,Engineer,0712424333,2019-08-03,1500,Active,38274113
+MEM1354,Achieng Adhiambo,Male,Kisumu,Farmer,0712335206,2021-12-10,2000,Active,16358447
+MEM1355,Simon Oguta,Male,Kisumu,Accountant,0711391835,2022-10-27,1500,Active,37404731
+MEM1356,Grace Gicheru,Female,Nairobi,Small Business Owner,0733781570,2020-07-18,3000,Active,36146463
+MEM1357,Alex Mwenda,Female,Kisumu,Accountant,0712473818,2018-05-26,3000,Active,26381827
+MEM1358,Alice Wambua,Female,Nairobi,Accountant,0729581633,2021-11-08,1500,Active,18503548
+MEM1359,Ann Kimani,Female,Kisumu,Driver,0722980779,2019-04-24,1000,Active,30137008
+MEM1360,Irene Matheka,Male,Nairobi,Teacher,0712877391,2023-03-08,2000,Active,10349962
+MEM1361,Adhiambo Kimani,Female,Nakuru,Civil Servant,0712481220,2019-06-26,3000,Active,31023096
+MEM1362,Tabitha Mwenda,Male,Nairobi,Police Officer,0722517848,2022-06-02,1000,Active,33237220
+MEM1363,Patrick Rotich,Female,Mombasa,Civil Servant,0733445521,2022-06-09,2000,Active,23269720
+MEM1364,Esther Owino,Male,Mombasa,Farmer,0733384660,2021-07-04,2000,Active,11402553
+MEM1365,Peter Njeri,Female,Mombasa,Civil Servant,0733936677,2021-04-22,2000,Active,33353943
+MEM1366,Brian Njeri,Male,Nakuru,Small Business Owner,0722568328,2021-09-16,1000,Active,35740497
+MEM1367,Gerald Akello,Male,Nairobi,Small Business Owner,0712356578,2022-07-05,2000,Active,25070241
+MEM1368,Philip Nderitu,Male,Nairobi,Accountant,0700935998,2023-03-28,3000,Active,14324771
+MEM1369,Kamau Mureithi,Male,Nairobi,Police Officer,0711823201,2019-02-10,1000,Active,32245347
+MEM1370,Francis Korir,Female,Nairobi,Small Business Owner,0712339431,2020-05-20,1000,Active,33135759
+MEM1371,Njenga Maina,Male,Kisumu,Farmer,0729286049,2018-08-24,5000,Active,17481785
+MEM1372,Mary Nderitu,Female,Mombasa,Teacher,0722738727,2021-01-20,1000,Active,12366404
+MEM1373,Emmanuel Anyango,Male,Nairobi,Accountant,0700678788,2019-04-06,3000,Active,31394207
+MEM1374,Janet Akoth,Female,Nairobi,Civil Servant,0700195797,2021-08-19,1500,Active,13837968
+MEM1375,Laban Kamau,Male,Nairobi,Accountant,0712868959,2018-11-02,1000,Active,13868101
+MEM1376,Eric Kirui,Male,Nairobi,Farmer,0733238987,2023-02-04,3000,Active,15332598
+MEM1377,Isaac Mwenda,Female,Kisumu,Accountant,0700163821,2019-06-29,1500,Active,36547932
+MEM1378,Ruth Wainaina,Female,Nakuru,Farmer,0712338641,2022-08-20,1500,Active,26392575
+MEM1379,Eric Mwenda,Male,Nairobi,Driver,0712714127,2018-10-19,1500,Active,12231380
+MEM1380,Boniface Musyoka,Female,Mombasa,Small Business Owner,0729586823,2018-05-27,2000,Active,16152492
+MEM1381,Wanjiru Awino,Female,Mombasa,Farmer,0733663015,2018-05-03,1000,Active,28016706
+MEM1382,Daniel Adhiambo,Male,Kisumu,Farmer,0722434347,2018-12-06,1500,Inactive,20985001
+MEM1383,Francis Ogol,Female,Mombasa,Small Business Owner,0733305967,2022-06-12,5000,Active,15615895
+MEM1384,Mwangi Awuor,Female,Mombasa,Police Officer,0729222060,2019-09-22,1000,Active,34833398
+MEM1385,Robert Ojwang,Female,Nairobi,Shopkeeper,0729187436,2021-05-03,2000,Active,18606683
+MEM1386,Purity Mwangi,Female,Nairobi,Nurse,0729306984,2022-03-14,1000,Active,32847400
+MEM1387,Lucy Korir,Male,Kisumu,Shopkeeper,0733668714,2022-08-16,2500,Active,33992203
+MEM1388,Rotich Chepkemoi,Male,Nairobi,Shopkeeper,0712727356,2021-03-11,1000,Active,33320975
+MEM1389,Jacqueline Kamau,Male,Nairobi,Nurse,0729414531,2023-03-02,5000,Active,23361527
+MEM1390,Achieng Ogola,Male,Nairobi,Driver,0722709970,2019-08-15,1500,Suspended,19556529
+MEM1391,Sharon Ngethe,Female,Kisumu,Teacher,0720216941,2020-06-18,1000,Active,27993902
+MEM1392,Florence Ogol,Male,Nairobi,Small Business Owner,0729915158,2018-09-12,500,Active,19611296
+MEM1393,Kamau Akoth,Female,Mombasa,Police Officer,0712717545,2020-08-17,1000,Active,19553108
+MEM1394,Gregory Nderitu,Male,Kisumu,Farmer,0729100519,2021-11-11,1500,Active,38706088
+MEM1395,Lydiah Wanjiku,Female,Mombasa,Accountant,0700891213,2019-09-15,1000,Inactive,29129661
+MEM1396,Ian Otieno,Male,Nairobi,Accountant,0720730565,2021-12-04,2500,Active,18774456
+MEM1397,Lilian Kirui,Male,Kisumu,Shopkeeper,0700616533,2020-04-04,1500,Active,13640389
+MEM1398,Brian Auma,Female,Nairobi,Farmer,0711444603,2023-04-15,1000,Active,35534563
+MEM1399,Moses Wainaina,Male,Nairobi,Police Officer,0729639178,2019-07-12,2000,Active,14006422
+MEM1400,Isaac Mutua,Male,Mombasa,Farmer,0700776624,2020-10-21,2000,Active,23250854
+MEM1401,Elijah Okumu,Female,Nakuru,Driver,0700377033,2021-01-10,1000,Active,37611186
+MEM1402,Francis Munyao,Male,Kisumu,Police Officer,0712457713,2020-10-08,1000,Active,39715792
+MEM1403,Joyce Akello,Male,Nairobi,Farmer,0700810769,2020-06-15,500,Inactive,39663009
+MEM1404,Ian Mwenda,Female,Nairobi,Shopkeeper,0700756326,2018-06-14,2000,Active,16782226
+MEM1405,Ndegwa Nderitu,Male,Nakuru,Small Business Owner,0729216884,2021-05-09,2000,Inactive,12902561
+MEM1406,Beatrice Gitau,Female,Nakuru,Civil Servant,0711611265,2018-03-23,1500,Active,28614320
+MEM1407,Joyce Gicheru,Male,Kisumu,Police Officer,0722434713,2022-12-27,2500,Active,38402293
+MEM1408,Peter Mulwa,Male,Nairobi,Civil Servant,0729619871,2020-06-03,2500,Active,26709007
+MEM1409,Grace Waithaka,Male,Nakuru,Civil Servant,0711287480,2022-02-13,2000,Active,16737333
+MEM1410,Eunice Mutua,Female,Nairobi,Driver,0733897376,2019-10-23,3000,Inactive,14265272
+MEM1411,Rose Mbugua,Female,Nakuru,Nurse,0720805666,2021-05-21,1000,Active,27388764
+MEM1412,Robert Mwenda,Female,Kisumu,Engineer,0700199161,2019-05-28,1000,Active,11197731
+MEM1413,Irene Mutua,Male,Mombasa,Driver,0729459065,2018-02-22,1000,Active,25735585
+MEM1414,Mark Njoroge,Female,Mombasa,Civil Servant,0711302999,2018-07-07,500,Active,26066526
+MEM1415,Lucy Kamau,Male,Nairobi,Driver,0733899908,2019-04-14,1500,Active,13668972
+MEM1416,Hellen Okello,Female,Nairobi,Small Business Owner,0712323573,2023-05-24,3000,Active,13738186
+MEM1417,Edward Auma,Male,Nairobi,Nurse,0700626154,2021-10-12,500,Active,17672055
+MEM1418,Paul Chebet,Female,Nairobi,Farmer,0700435560,2022-09-09,1000,Active,11276117
+MEM1419,Samuel Awuor,Female,Mombasa,Civil Servant,0729207916,2022-10-29,1500,Active,37954020
+MEM1420,Wangari Mutua,Female,Nairobi,Civil Servant,0700739135,2021-03-24,3000,Active,23021262
+MEM1421,Rose Wainaina,Male,Nakuru,Nurse,0712698745,2021-04-17,1000,Active,16190065
+MEM1422,Samuel Wainaina,Male,Nairobi,Teacher,0711439492,2023-05-02,1500,Active,12805419
+MEM1423,Jacqueline Odero,Male,Mombasa,Shopkeeper,0711301225,2018-02-12,500,Active,35586643
+MEM1424,Harrison Munyao,Female,Nairobi,Police Officer,0720923982,2022-04-16,1000,Active,33273917
+MEM1425,Paul Muturi,Female,Nakuru,Police Officer,0711993761,2021-10-08,5000,Active,37058599
+MEM1426,Chepkemoi Njeri,Female,Mombasa,Engineer,0711739760,2022-08-10,5000,Active,12261581
+MEM1427,Collins Kyalo,Male,Kisumu,Driver,0711441501,2019-07-06,500,Active,18111845
+MEM1428,Tabitha Njeri,Male,Nakuru,Nurse,0729785234,2021-03-26,5000,Active,24628008
+MEM1429,James Yego,Male,Nairobi,Farmer,0720917632,2018-03-24,2000,Active,30646740
+MEM1430,Purity Mutua,Male,Nairobi,Nurse,0700339834,2022-04-12,3000,Active,22445402
+MEM1431,Janet Murimi,Female,Mombasa,Small Business Owner,0700594908,2022-03-29,1500,Suspended,24700483
+MEM1432,Atieno Akello,Female,Nairobi,Civil Servant,0700488802,2018-12-25,1500,Active,34774791
+MEM1433,Ian Mulwa,Male,Mombasa,Teacher,0711421107,2020-08-21,1500,Active,14790187
+MEM1434,Mark Musyoka,Female,Nakuru,Driver,0701862010,2020-11-28,2000,Active,24831858
+MEM1435,Rotich Kariuki,Female,Nairobi,Engineer,0701969512,2021-08-27,1000,Active,30032045
+MEM1436,Beatrice Mbugua,Male,Mombasa,Driver,0701571552,2020-06-24,500,Active,35807605
+MEM1437,Felix Kyalo,Male,Nairobi,Teacher,0700545957,2023-02-20,1000,Active,11377473
+MEM1438,Dennis Nderitu,Female,Nairobi,Small Business Owner,0720899743,2019-07-24,2000,Active,32242453
+MEM1439,Isaac Gicheru,Female,Nakuru,Small Business Owner,0720105948,2019-01-07,1000,Active,26898659
+MEM1440,Florence Murimi,Female,Kisumu,Nurse,0720157994,2021-04-13,2000,Active,35729208
+MEM1441,Charles Odero,Female,Nairobi,Nurse,0720470789,2020-06-11,5000,Active,16340761
+MEM1442,Mark Okumu,Female,Nakuru,Small Business Owner,0711579083,2021-07-24,500,Active,35788232
+MEM1443,Fredrick Waithaka,Male,Nairobi,Farmer,0700120425,2022-07-26,2000,Inactive,17060904
+MEM1444,Mwangi Ouma,Female,Mombasa,Driver,0712318742,2020-10-04,1500,Active,34323948
+MEM1445,Isaac Kariuki,Female,Kisumu,Shopkeeper,0700409116,2023-06-08,3000,Active,20667669
+MEM1446,Stephen Mugo,Male,Nairobi,Accountant,0701124829,2018-07-06,1000,Active,11468271
+MEM1447,Tabitha Kuria,Male,Kisumu,Shopkeeper,0701548264,2020-08-20,2000,Active,29085806
+MEM1448,Njoroge Mutua,Female,Mombasa,Teacher,0720441505,2019-12-14,2500,Active,10476846
+MEM1449,Mwangi Gakuya,Female,Mombasa,Police Officer,0712936212,2020-04-16,3000,Inactive,15124115
+MEM1450,Achieng Aoko,Male,Nairobi,Engineer,0712747554,2019-11-14,2000,Active,21453721
+MEM1451,Erick Rotich,Male,Nairobi,Shopkeeper,0729998004,2019-10-20,1500,Suspended,38839616
+MEM1452,Lucy Wambua,Female,Mombasa,Police Officer,0700212024,2021-10-04,2000,Active,18415524
+MEM1453,Joyce Matheka,Male,Kisumu,Police Officer,0733354948,2018-08-03,3000,Active,15889776
+MEM1454,Lydiah Aoko,Male,Mombasa,Shopkeeper,0711441293,2022-10-23,2000,Active,21747984
+MEM1455,Purity Gitau,Male,Nairobi,Police Officer,0729856300,2018-11-26,500,Active,25503336
+MEM1456,Philip Wainaina,Male,Nairobi,Nurse,0729148234,2019-11-07,3000,Active,16732673
+MEM1457,Collins Kariuki,Male,Nairobi,Shopkeeper,0720821211,2020-04-23,2000,Active,31613589
+MEM1458,Wanjiru Mwangi,Male,Nairobi,Shopkeeper,0729361982,2021-11-21,2000,Active,11893414
+MEM1459,Esther Musyoka,Male,Nairobi,Nurse,0700736176,2020-10-11,1000,Active,23130247
+MEM1460,Moses Awino,Male,Nairobi,Driver,0720162198,2019-08-14,2000,Active,22751836
+MEM1461,Janet Muthoni,Male,Nairobi,Small Business Owner,0733158840,2021-09-18,1500,Inactive,15137100
+MEM1462,Isaac Otieno,Female,Nairobi,Shopkeeper,0701389455,2023-04-20,2000,Inactive,19791371
+MEM1463,Mary Kabiru,Female,Nairobi,Accountant,0701559406,2020-03-31,1000,Active,26964939
+MEM1464,Michael Korir,Male,Kisumu,Nurse,0700216424,2022-07-25,2000,Active,12135718
+MEM1465,Lydiah Musyoka,Female,Nairobi,Accountant,0729240807,2022-04-07,5000,Active,17557652
+MEM1466,Duncan Musyoka,Female,Nairobi,Engineer,0733440310,2021-01-31,500,Active,16172779
+MEM1467,Joseph Kimani,Female,Nairobi,Teacher,0720964352,2018-03-17,5000,Active,31045797
+MEM1468,Erick Murimi,Male,Nairobi,Accountant,0711257726,2020-07-20,1500,Active,16520937
+MEM1469,Njenga Ojwang,Male,Kisumu,Civil Servant,0700701975,2018-06-30,3000,Active,21270552
+MEM1470,Lilian Munyao,Male,Nairobi,Driver,0712689128,2019-10-07,2500,Active,32079226
+MEM1471,Tabitha Mugo,Male,Nairobi,Shopkeeper,0733559550,2019-06-01,2000,Active,34198821
+MEM1472,Hellen Wanjiku,Female,Nairobi,Civil Servant,0712443767,2019-10-25,2000,Active,24726087
+MEM1473,Wambua Ouma,Male,Nairobi,Shopkeeper,0700683715,2018-08-26,3000,Active,10849251
+MEM1474,Charles Kuria,Female,Nairobi,Driver,0700823066,2023-06-10,1500,Inactive,39237228
+MEM1475,Catherine Auma,Female,Nakuru,Teacher,0722247290,2022-05-02,1000,Active,24781750
+MEM1476,Hellen Wambua,Male,Nakuru,Teacher,0733924076,2020-04-07,2000,Suspended,12328103
+MEM1477,Njoroge Kamau,Male,Nakuru,Police Officer,0701994889,2022-11-07,2500,Active,38300556
+MEM1478,Gerald Gitonga,Female,Kisumu,Farmer,0701910237,2020-11-19,2500,Suspended,18246878
+MEM1479,Winnie Ojwang,Male,Nairobi,Accountant,0729883572,2022-08-17,2500,Active,30188361
+MEM1480,Ann Gicheru,Male,Nairobi,Engineer,0712293084,2018-01-03,1500,Active,27735416
+MEM1481,Mercy Otieno,Male,Nairobi,Civil Servant,0701591075,2021-09-08,2500,Active,19657184
+MEM1482,Gerald Gakuya,Male,Nairobi,Driver,0712583187,2022-11-16,1000,Suspended,28684890
+MEM1483,Alex Achieng,Female,Kisumu,Farmer,0701449188,2021-01-16,1500,Active,15405551
+MEM1484,Ndegwa Ndegwa,Female,Nairobi,Shopkeeper,0712810587,2020-08-04,500,Active,14810479
+MEM1485,Rose Muturi,Female,Nairobi,Farmer,0700367762,2020-04-26,1000,Active,28358413
+MEM1486,Alex Achieng,Male,Nairobi,Police Officer,0722247083,2018-04-22,1500,Active,20655329
+MEM1487,Allan Odhiambo,Female,Kisumu,Shopkeeper,0733773437,2019-01-20,1500,Active,11902976
+MEM1488,David Oguta,Female,Nairobi,Farmer,0720548088,2020-11-27,2000,Active,13736816
+MEM1489,Eunice Murimi,Male,Nairobi,Civil Servant,0720945220,2020-01-11,1500,Active,32976827
+MEM1490,Lucy Gathogo,Female,Nairobi,Engineer,0729936865,2021-06-29,1500,Inactive,12185445
+MEM1491,Eunice Onyango,Male,Kisumu,Nurse,0722972073,2022-03-30,1000,Active,23754772
+MEM1492,John Awuor,Female,Kisumu,Teacher,0722637145,2020-10-17,1500,Inactive,27382783
+MEM1493,Grace Kamau,Female,Nairobi,Teacher,0701116988,2021-07-04,1000,Inactive,27927252
+MEM1494,Sharon Muthoni,Female,Nairobi,Farmer,0720133642,2020-06-24,500,Active,10585921
+MEM1495,Kamau Mutua,Female,Nairobi,Driver,0701928519,2022-04-06,2000,Active,30756309
+MEM1496,Thomas Ouma,Male,Nakuru,Driver,0729396376,2018-04-16,2000,Active,34175379
+MEM1497,Njoroge Gitau,Female,Nairobi,Small Business Owner,0701765189,2019-02-21,2000,Active,15701409
+MEM1498,Hellen Kariuki,Female,Kisumu,Small Business Owner,0733870109,2019-07-01,1500,Active,34296071
+MEM1499,Florence Ndegwa,Male,Mombasa,Nurse,0733692767,2021-01-29,1500,Active,20792993
+MEM1500,Lydiah Okello,Female,Nairobi,Police Officer,0733685410,2018-09-26,3000,Active,22427627
